@@ -350,4 +350,7 @@
 |---|---|---|
 | 面试题 04.06. 后继者 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/04-06) | [题解](https://leetcode.cn/problems/successor-lcci/solution/-by-coding-cafe-iq7d/), [视频](https://www.bilibili.com/video/BV1MU4y1m7Qz/) |
 
+# Contribution 
+
+![qr](./assets/qr.jpeg)
 
