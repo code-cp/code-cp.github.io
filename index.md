@@ -260,6 +260,7 @@
 | 953. Verifying an Alien Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/953) |  |
 | 954. Array of Doubled Pairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/954) | [题解](https://leetcode-cn.com/problems/array-of-doubled-pairs/solution/shua-ti-ka-pei-guan-by-coding-cafe-2zg8/), [视频](https://www.bilibili.com/video/BV1dY4y1q7d4?share_source=copy_web) |
 | 961. N-Repeated Element in Size 2N Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/961) | [题解](https://leetcode-cn.com/problems/array-of-doubled-pairs/solution/shua-ti-ka-pei-guan-by-coding-cafe-2zg8/), [视频](https://www.bilibili.com/video/BV1ot4y1W7TL/) |
+| 965. Univalued Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/965) | --- |
 | 968. Binary Tree Cameras | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/968) | --- |
 | 969. Pancake Sorting | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/969) | [题解](https://leetcode-cn.com/problems/pancake-sorting/solution/shua-ti-ka-pei-guan-jian-bing-pai-xu-by-sbk6h/) |
 | 977. Squares of a Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/977) | --- |
