@@ -182,7 +182,7 @@
 | 513. Find Bottom Left Tree Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/513) | ---- |
 | 516. Longest Palindromic Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/516) | ---- |
 | 518. Coin Change 2 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/518) | ---- |
-| 521. 最长特殊序列 Ⅰ | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/521) | [题解](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/solution/shua-ti-ka-pei-guan-jian-dan-pan-duan-ti-pfzr/) |
+| 521. Longest Uncommon Subsequence I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/521) | [题解](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/solution/shua-ti-ka-pei-guan-jian-dan-pan-duan-ti-pfzr/) |
 | 524. Longest Word in Dictionary through Deleting | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/524) | [题解](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/solution/jian-dan-tan-xin-by-sholmes9091-4ltq/) |
 | 530. Minimum Absolute Difference in BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/530) | ---- |
 | 537. Complex Number Multiplication | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/537) | [题解](https://leetcode-cn.com/problems/complex-number-multiplication/solution/shua-ti-ka-pei-guan-jian-dan-cheng-fa-by-yybu/) |
