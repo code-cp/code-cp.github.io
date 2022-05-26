@@ -216,7 +216,8 @@
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/689) | [题解](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/689jie-ti-bi-ji-dp-by-sholmes9091-23pk/) |
 | 691. Stickers to Spell Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/688) | [题解](https://leetcode.cn/problems/stickers-to-spell-word/solution/shua-ti-ka-pei-guan-by-coding-cafe-e9ig/)，[视频](https://www.bilibili.com/video/BV11Y4y1r7th/) |
 | 692. Top K Frequent Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/692) | --- |
-| 693. Binary Number with Alternating Bits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/693) |  |
+| 693. Binary Number with Alternating Bits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/693) | --- |
+| 699. Falling Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/699) | --- |
 | 700. Search in a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/700) | --- |
 | 701. Insert into a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/701) | --- |
 | 704. Binary Search | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/704) | --- |
