@@ -353,6 +353,7 @@
 | **Problem** | **Solution** | **Supplementary** |
 |---|---|---|
 | 面试题 04.06. 后继者 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/04-06) | [题解](https://leetcode.cn/problems/successor-lcci/solution/-by-coding-cafe-iq7d/), [视频](https://www.bilibili.com/video/BV1MU4y1m7Qz/) |
+| 面试题 17.11. 单词距离 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/17-11) | [题解](https://leetcode.cn/problems/find-closest-lcci/solution/by-coding-cafe-whyu/) |
 
 # Contribution 
 
