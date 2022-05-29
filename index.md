@@ -166,7 +166,8 @@
 | 461. Hamming Distance | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/461) | ---- |
 | 462. Minimum Moves to Equal Array Elements II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/462) | [题解](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/solution/by-coding-cafe-cg2n/), [视频](https://www.bilibili.com/video/BV1FU4y1U7gG/) |
 | 464. Can I Win | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/464) | [题解](https://leetcode.cn/problems/can-i-win/solution/shua-ti-ka-pei-guan-by-coding-cafe-8qgd/) |
-| 467. Unique Substrings in Wraparound String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/467) | [题解](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/solution/by-coding-cafe-ub4g/) |   
+| 467. Unique Substrings in Wraparound String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/467) | [题解](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/solution/by-coding-cafe-ub4g/) |  
+| 468. Validate IP Address | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/468) | ---- |
 | 474. Ones and Zeroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/474) | ---- |
 | 475. Heaters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/475) | [题解](https://leetcode-cn.com/problems/heaters/solution/lin-dong-jiang-zhi-by-sholmes9091-skbq/) |
 | 479. Largest Palindrome Product | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/479) | [题解](https://leetcode-cn.com/problems/largest-palindrome-product/solution/by-coding-cafe-1ruh/), [视频](https://www.bilibili.com/video/BV1o5411U78m/) |
