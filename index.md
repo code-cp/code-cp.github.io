@@ -110,6 +110,7 @@
 | 258. Add Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/258) | [题解](https://leetcode-cn.com/problems/add-digits/solution/shua-ti-ka-pei-guan-rustjian-dan-jie-fa-kw08x/) |
 | 260. Single Number III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/260) | --- |
 | 268. Missing Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/268) | --- |
+| 269. Alien Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/269) | [题解](https://leetcode.cn/problems/Jf1JuT/solution/shua-ti-ka-pei-guan-houxubi-by-coding-ca-ygnu/), [视频](https://www.bilibili.com/video/BV1MW4y1C73w/) |
 | 279. Perfect Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/279) | ---- |
 | 300. Longest Increasing Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/300) | ---- |
 | 306. Additive Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/306) | [题解](https://leetcode-cn.com/problems/additive-number/solution/hui-su-san-bu-qu-qing-xi-kuang-jia-by-sh-4vfq/), [视频](https://www.bilibili.com/video/BV15T4y1171f?share\_source=copy\_web) |
@@ -357,8 +358,4 @@
 |---|---|---|
 | 面试题 04.06. 后继者 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/04-06) | [题解](https://leetcode.cn/problems/successor-lcci/solution/-by-coding-cafe-iq7d/), [视频](https://www.bilibili.com/video/BV1MU4y1m7Qz/) |
 | 面试题 17.11. 单词距离 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/17-11) | [题解](https://leetcode.cn/problems/find-closest-lcci/solution/by-coding-cafe-whyu/), [视频](https://www.bilibili.com/video/BV1nZ4y1b7oZ/) |
-
-# Contribution 
-
-![qr](./assets/qr.jpeg)
 
