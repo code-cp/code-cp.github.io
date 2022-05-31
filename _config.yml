@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: 刷题咖啡馆 
-description: website for coding cafe (`cp stands for central perk`), 刷题咖啡馆题解汇总，致力于用`短视频`展示题解
+description: 
+  <ul>
+  <li>Website for coding cafe (<strong>cp stands for central perk</strong>)</li>
+  <li>致力于用<strong>短视频</strong>展示题解</li>
+  </ul>
+
+  <img src="./assets/qr.jpeg" alt="qr" width="250" height="250">
