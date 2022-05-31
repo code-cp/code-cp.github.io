@@ -6,6 +6,4 @@
 
 - 其他notes在[issues](https://github.com/code-cp/code-cp.github.io/issues)
 
-- Contribution 
 
-  ![qr](./assets/qr.jpeg)
