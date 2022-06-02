@@ -159,6 +159,7 @@
 | 436. Find Right Interval | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/436) | [题解](https://leetcode.cn/problems/find-right-interval/solution/shua-ti-ka-pei-guan-520zhe-yi-tian-chu-e-rsxw/) |
 | 442. Find All Duplicates in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/442) | ---- |
 | 449. Serialize and Deserialize BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/449) | ---- |
+| 450. Delete Node in a BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/450) | [题解](), [视频]() |
 | 452. Minimum Number of Arrows to Burst Balloons | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/452) | ---- |
 | 454. 4Sum II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/454) | ---- |
 | 455. Assign Cookies | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/455) | ---- |
