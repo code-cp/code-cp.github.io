@@ -249,6 +249,7 @@
 | 812. Largest Triangle Area | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/812) | [题解](https://leetcode.cn/problems/largest-triangle-area/solution/shua-ti-ka-pei-guan-by-coding-cafe-hqat/), [视频](https://www.bilibili.com/video/BV1eA4y1f7C4/) |
 | 819. Most Common Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/819) | [题解](https://leetcode-cn.com/problems/most-common-word/solution/shua-ti-kaf-by-coding-cafe-ah5o/) |
 | 821. Shortest Distance to a Character | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/821) | [题解](https://leetcode-cn.com/problems/shortest-distance-to-a-character/solution/by-coding-cafe-8vsa/) |
+| 829. Consecutive Numbers Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/838) | [题解]()，[视频]() |
 | 838. Push Dominoes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/838) | [题解](https://leetcode-cn.com/problems/push-dominoes/solution/shua-ti-ka-pei-guan-zuo-zuo-you-you-by-s-iesa/)，[视频](https://www.bilibili.com/video/BV1o44y1J7xf/) |
 | 846. Hand of Straights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/846) | --- |
 | 860. Lemonade Change | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/860) | --- |
