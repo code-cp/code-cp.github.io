@@ -283,7 +283,8 @@
 | 1022. Sum of Root To Leaf Binary Numbers| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1022) | [题解](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/solution/shua-ti-ka-pei-guan-ceng-xu-bian-li-by-c-zhge/) |
 | 1034. Coloring A Border | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1034) | ------ |
 | 1035. Uncrossed Lines | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1035) | ------ |
-| 1036. Escape a Large Maze | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1036) | ------ |
+| 1036. Escape a Large Maze | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1036) | -----|
+| 1037. Valid Boomerang | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1037) | [题解](https://leetcode.cn/problems/valid-boomerang/solution/by-coding-cafe-aukk/) |
 | 1047. Remove All Adjacent Duplicates In String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1047) | ------ |
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
