@@ -235,6 +235,7 @@
 | 718. Maximum Length of Repeated Subarray | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/718) | --- |
 | 720. Longest Word in Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/720) | [题解](https://leetcode-cn.com/problems/longest-word-in-dictionary/solution/by-sholmes9091-cqz0/)，[视频](https://www.bilibili.com/video/BV1wU4y1Z7S4/) |
 | 728. Self Dividing Numbers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/728) | --- |
+| 730. Count Different Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/730) | --- |
 | 732. My Calendar III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/732) | [题解](https://leetcode.cn/problems/my-calendar-iii/solution/shua-ti-ka-pei-guan-by-coding-cafe-84ji/)，[视频](https://www.bilibili.com/video/BV1EF411V7G2/) |
 | 738. Monotone Increasing Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/738) | --- |
 | 739. Daily Temperatures | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/739) | --- |
