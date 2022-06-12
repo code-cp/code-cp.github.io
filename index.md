@@ -261,6 +261,7 @@
 | 875. Koko Eating Bananas | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/875) | --- |
 | 883. Projection Area of 3D Shapes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/883) | [题解](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/solution/-by-coding-cafe-oqsf/) |
 | 884. Uncommon Words from Two Sentences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/884) | [题解](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/solution/ha-xi-biao-by-sholmes9091-lwr7/) |
+| 890. Find and Replace Pattern | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/890) | -- |
 | 905. Sort Array By Parity | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/905) | [题解](https://leetcode-cn.com/problems/sort-array-by-parity/solution/shua-ti-ka-pei-guan-shuang-zhi-zhen-by-c-zb2r/) |
 | 908. Smallest Range I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/908) | --- |
 | 911. Online Election | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/911) | --- |
