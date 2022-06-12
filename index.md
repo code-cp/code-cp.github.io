@@ -350,11 +350,15 @@
 | 2100. Find Good Days to Rob the Bank | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2100) | [题解](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/solution/shua-ti-ka-pei-guan-yi-wei-shi-dan-diao-r1ynh/)，[视频](https://www.bilibili.com/video/BV14F41147mf/) |
 | 2104. Sum of Subarray Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2104) | [题解](https://leetcode-cn.com/problems/sum-of-subarray-ranges/solution/shua-ti-ka-pei-guan-dong-gui-chao-shi-li-ttqn/)，[视频](https://www.bilibili.com/video/BV1P3411L7HT/) |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
+| 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
+| 5270. Minimum Path Cost in a Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5270) | ----- |
+| 5289. Fair Distribution of Cookies | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5289) | [视频](https://www.bilibili.com/video/BV17v4y1G7FB/) |
 | 5976. Check if Every Row and Column Contains All Numbers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5976) | [题解](https://leetcode-cn.com/problems/check-if-every-row-and-column-contains-all-numbers/solution/cpythonrustjie-fa-by-sholmes9091-qgb6/) |
 | 5977. Minimum Swaps to Group All 1's Together II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5977) | ----- |
 | 5982. Solving Questions With Brainpower | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5982) | [题解](https://leetcode-cn.com/problems/solving-questions-with-brainpower/solution/hui-su-chao-shi-zheng-xu-dpyou-bugdao-xu-zaji/) |
 | 5992. Maximum Good People Based on Statements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5992) | [题解](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements/solution/hui-su-san-bu-qu-qing-xi-kuang-jia-by-sh-t7en/), [视频](https://www.bilibili.com/video/BV1Vb4y1n7Z6/) |
 | 6003. Minimum Time to Remove All Cars Containing Illegal Goods | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5977) | [题解](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/solution/qian-hou-zhui-dp-by-sholmes9091-ops0/), [视频](https://www.bilibili.com/video/BV1u5411f7bb/) |
+| 6094. Naming a Company | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6094) | [视频](https://www.bilibili.com/video/BV17v4y1G7FB/) |
 
 
 ### 剑指 Offer
