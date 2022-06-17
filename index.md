@@ -295,6 +295,7 @@
 | 1047. Remove All Adjacent Duplicates In String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1047) | ------ |
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
+| 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
 | 1185. Day of the Week | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | ------ |
