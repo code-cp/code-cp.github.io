@@ -235,6 +235,7 @@
 | 709. To Lower Case | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/709) | --- |
 | 713. Subarray Product Less Than K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/713) | [题解](https://leetcode-cn.com/problems/subarray-product-less-than-k/solution/shua-ti-kafeigu-by-coding-cafe-ujcq/)，[视频](https://www.bilibili.com/video/BV1y54y1f7yH/) |
 | 714. Best Time to Buy and Sell Stock with Transaction Fee | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/714) | --- |
+| 715. Range Module | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/715) | [题解](https://leetcode.cn/problems/range-module/solution/shua-ti-ka-pei-guan-by-coding-cafe-flf3/)，[视频](https://www.bilibili.com/video/BV1qL4y1A7LM/) |
 | 717. 1-bit and 2-bit Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/717) | [题解](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/solution/shua-ti-ka-pei-guan-jian-dan-pan-duan-by-jqc4/) |
 | 718. Maximum Length of Repeated Subarray | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/718) | --- |
 | 719. Find K-th Smallest Pair Distance | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/719) | [题解](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/solution/by-coding-cafe-gnck/) |
