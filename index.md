@@ -6,7 +6,7 @@
 |---|---|---|
 | 1. Two Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1) | ---- |
 | 3. Longest Substring Without Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/3) | ---- |
-| 4. Median of Two Sorted Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/4) | ---- |
+| 4. Median of Two Sorted Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/4) | --- |
 | 6. ZigZag Conversion | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6) | ---- |
 | 11. Container With Most Water | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/11) | --- |
 | 15. 3Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/15) | [视频](https://www.bilibili.com/video/BV1mV411y7Kq/) |
@@ -20,6 +20,7 @@
 | 26. Remove Duplicates from Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/26) | [视频](https://www.bilibili.com/video/BV12Q4y1Z7ZL?share\_source=copy\_web) |
 | 27. Remove Element | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/27) | ---- |
 | 28. Implement strStr() | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/28) | ---- |
+| 30. Substring with Concatenation of All Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/30) | ---- |
 | 31. Next Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/31) | [视频](https://www.bilibili.com/video/BV1by4y1g736?share\_source=copy\_web) |
 | 33. Search in Rotated Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/33) | [视频](https://www.bilibili.com/video/BV13p4y147u6?share\_source=copy\_web) |
 | 36. Valid Sudoku | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/36) | --- |
