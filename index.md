@@ -107,6 +107,7 @@
 | 236. Lowest Common Ancestor of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/236) | ---- |
 | 239. Sliding Window Maximum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/239) | ---- |
 | 242. Valid Anagram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/242) | --- |
+| 256: Paint House | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/256) | --- |
 | 257. Binary Tree Paths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/257) | --- |
 | 258. Add Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/258) | [题解](https://leetcode-cn.com/problems/add-digits/solution/shua-ti-ka-pei-guan-rustjian-dan-jie-fa-kw08x/) |
 | 260. Single Number III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/260) | --- |
