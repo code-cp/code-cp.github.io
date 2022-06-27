@@ -194,6 +194,7 @@
 | 516. Longest Palindromic Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/516) | ---- |
 | 518. Coin Change 2 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/518) | ---- |
 | 521. Longest Uncommon Subsequence I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/521) | [题解](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/solution/shua-ti-ka-pei-guan-jian-dan-pan-duan-ti-pfzr/) |
+| 522. Longest Uncommon Subsequence II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/522) | ---- |
 | 524. Longest Word in Dictionary through Deleting | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/524) | [题解](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/solution/jian-dan-tan-xin-by-sholmes9091-4ltq/) |
 | 530. Minimum Absolute Difference in BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/530) | ---- |
 | 532. K-diff Pairs in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/524) | [题解](https://leetcode.cn/problems/k-diff-pairs-in-an-array/solution/by-coding-cafe-vs0j/) |
