@@ -120,6 +120,7 @@
 | 309. Best Time to Buy and Sell Stock with Cooldown | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/309) | ---- |
 | 318. Maximum Product of Word Lengths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/318) | --- |
 | 322. Coin Change | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/322) | --- |
+| 324. Wiggle Sort II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/324) | --- |
 | 332. Reconstruct Itinerary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/332) | --- |
 | 334. Increasing Triplet Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/334) | [题解](https://leetcode-cn.com/problems/increasing-triplet-subsequence/solution/tan-xin-jie-fa-by-sholmes9091-zyx6/) |
 | 337. House Robber III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/337) | --- |
