@@ -308,6 +308,7 @@
 | 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
+| 1175. Prime Arrangements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1175) | ------ |
 | 1185. Day of the Week | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | ------ |
 | 1189. Maximum Number of Balloons | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1189) | [题解](https://leetcode-cn.com/problems/maximum-number-of-balloons/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-xrr8a/) |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
