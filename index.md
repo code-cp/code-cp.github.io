@@ -106,6 +106,7 @@
 | 235. Lowest Common Ancestor of a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/235) | ---- |
 | 236. Lowest Common Ancestor of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/236) | ---- |
 | 239. Sliding Window Maximum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/239) | ---- |
+| 241. Different Ways to Add Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/241) | --- |
 | 242. Valid Anagram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/242) | --- |
 | 256. Paint House | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/256) | --- |
 | 257. Binary Tree Paths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/257) | --- |
