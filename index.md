@@ -272,6 +272,7 @@
 | 846. Hand of Straights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/846) | --- |
 | 860. Lemonade Change | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/860) | --- |
 | 868. Binary Gap | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/868) | [题解](https://leetcode-cn.com/problems/binary-gap/solution/shua-ti-ka-pei-guan-jian-dan-cu-bao-wei-fnxth/) |
+| 871. Minimum Number of Refueling Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/871) | --- |
 | 875. Koko Eating Bananas | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/875) | --- |
 | 883. Projection Area of 3D Shapes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/883) | [题解](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/solution/-by-coding-cafe-oqsf/) |
 | 884. Uncommon Words from Two Sentences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/884) | [题解](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/solution/ha-xi-biao-by-sholmes9091-lwr7/) |
