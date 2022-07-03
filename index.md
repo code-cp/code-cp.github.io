@@ -207,6 +207,7 @@
 | 540. Single Element in a Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/540) | [题解](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/solution/shua-ti-ka-pei-guan-jing-dian-wei-yun-su-749k/) |
 | 541. Reverse String II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/541) | --- |
 | 553. Optimal Division | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/553) | [题解](https://leetcode-cn.com/problems/optimal-division/solution/shua-ti-ka-pei-guan-yi-wei-shi-hui-su-me-t3dd/)，[视频](https://www.bilibili.com/video/BV1eq4y1x7Ts/) |
+| 556. Next Greater Element III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/556) | --- |
 | 559. Maximum Depth of N-ary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/559) | --- |
 | 563. Binary Tree Tilt | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/563) | --- |
 | 564. Find the Closest Palindrome | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/564) | [题解](https://leetcode-cn.com/problems/find-the-closest-palindrome/solution/shua-ti-ka-pei-guan-rustjian-dan-jie-fa-k0lrz/)，[视频](https://www.bilibili.com/video/BV1yu411D79D/) |
