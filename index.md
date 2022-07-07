@@ -221,6 +221,7 @@
 | 606. Construct String from Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/606) |  |
 | 617. Merge Two Binary Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/617) | --- |
 | 647. Palindromic Substrings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/647) | --- |
+| 648. Replace Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/648) | --- |
 | 653. Two Sum IV - Input is a BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/653) |  |
 | 654. Maximum Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/654) | --- |
 | 661. Image Smoother | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/661) | [题解](https://leetcode-cn.com/problems/image-smoother/solution/by-sholmes9091-tfhc/) |
