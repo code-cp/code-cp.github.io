@@ -318,6 +318,7 @@
 | 1185. Day of the Week | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | ------ |
 | 1189. Maximum Number of Balloons | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1189) | [题解](https://leetcode-cn.com/problems/maximum-number-of-balloons/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-xrr8a/) |
 | 1200. Minimum Absolute Difference | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1200) | ------ |
+| 1217. Minimum Cost to Move Chips to The Same Position | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1217) | ------ |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
 | 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) |  |
