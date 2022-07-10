@@ -257,6 +257,7 @@
 | 736. Parse Lisp Expression | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/736) | [题解](https://leetcode.cn/problems/parse-lisp-expression/solution/by-coding-cafe-vkfv/)，[视频](https://www.bilibili.com/video/BV1694y1X7Sx/) |
 | 738. Monotone Increasing Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/738) | --- |
 | 739. Daily Temperatures | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/739) | --- |
+| 741. Cherry Pickup | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/741) | --- |
 | 746. Min Cost Climbing Stairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/746) | --- |
 | 747. Largest Number At Least Twice of Others | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/747) | [题解](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/solution/tan-xin-by-sholmes9091-dp9g/) |
 | 748. Shortest Completing Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/748) | --- |
@@ -332,6 +333,7 @@
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1414) | [题解](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/solution/shua-ti-ka-pei-guan-tan-xin-jie-fa-by-sh-wuvy/) |
 | 1447. Simplified Fractions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1447) |  |
 | 1449. Form Largest Integer With Digits That Add up to Target | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1449) | [视频](https://www.bilibili.com/video/BV1By4y1u72C?share\_source=copy\_web) |
+| 1463. Cherry Pickup II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1463) |  |
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1576) | [题解](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/-by-sholmes9091-mo3l/) |
 | 1601. Maximum Number of Achievable Transfer Requests | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1601) | [题解](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/solution/shua-ti-ka-pei-guan-hui-su-by-sholmes909-7knj/)，[视频](https://www.bilibili.com/video/BV1ST4y1Q7Ci/) |
