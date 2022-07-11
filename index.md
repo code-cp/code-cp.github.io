@@ -229,6 +229,7 @@
 | 669. Trim a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/669) | --- |
 | 674. Longest Continuous Increasing Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/674) | --- |
 | 675. Cut Off Trees for Golf Event | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/675) | [题解](https://leetcode.cn/problems/cut-off-trees-for-golf-event/solution/shua-ti-ka-pei-guan-by-coding-cafe-76um/) |
+| 676. Implement Magic Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/676) | [题解](https://leetcode.cn/problems/implement-magic-dictionary/solution/by-coding-cafe-ern5/), [视频](https://www.bilibili.com/video/BV1rU4y1q7kS/) |
 | 682. Baseball Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/682) | [题解](https://leetcode-cn.com/problems/baseball-game/solution/by-sholmes9091-4kha/) |
 | 688. Knight Probability in Chessboard | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/688) | [题解](https://leetcode-cn.com/problems/knight-probability-in-chessboard/solution/shua-ti-ka-pei-guan-dai-ji-yi-de-hui-su-5ck7f/)，[视频](https://www.bilibili.com/video/BV1jS4y1r7NP/) |
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/689) | [题解](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/689jie-ti-bi-ji-dp-by-sholmes9091-23pk/) |
