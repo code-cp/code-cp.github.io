@@ -324,6 +324,7 @@
 | 1217. Minimum Cost to Move Chips to The Same Position | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1217) | ------ |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
+| 1252. Cells with Odd Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1252) | ------ |
 | 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) |  |
 | 1332. Remove Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1332) | [题解](https://leetcode-cn.com/problems/remove-palindromic-subsequences/solution/xian-shan-chu-azai-shan-chu-b-by-sholmes-2ami/) |
 | 1342. Number of Steps to Reduce a Number to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1342) | [题解](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/shua-ti-ka-pei-guan-mo-ni-wei-yun-suan-b-l28v/) |
