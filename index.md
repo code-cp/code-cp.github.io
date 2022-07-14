@@ -260,6 +260,7 @@
 | 738. Monotone Increasing Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/738) | --- |
 | 739. Daily Temperatures | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/739) | --- |
 | 741. Cherry Pickup | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/741) | --- |
+| 745. Prefix and Suffix Search | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/745) | [题解](https://leetcode.cn/problems/prefix-and-suffix-search/solution/by-coding-cafe-ocwr/)，[视频](https://www.bilibili.com/video/BV1Za411n7Mt/) |
 | 746. Min Cost Climbing Stairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/746) | --- |
 | 747. Largest Number At Least Twice of Others | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/747) | [题解](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/solution/tan-xin-by-sholmes9091-dp9g/) |
 | 748. Shortest Completing Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/748) | --- |
