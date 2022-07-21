@@ -278,6 +278,7 @@
 | 806. Number of Lines To Write String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/806) | --- |
 | 807. Max Increase to Keep City Skyline | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/807) | --- |
 | 812. Largest Triangle Area | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/812) | [题解](https://leetcode.cn/problems/largest-triangle-area/solution/shua-ti-ka-pei-guan-by-coding-cafe-hqat/), [视频](https://www.bilibili.com/video/BV1eA4y1f7C4/) |
+| 814. Binary Tree Pruning | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/814) | --- |
 | 819. Most Common Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/819) | [题解](https://leetcode-cn.com/problems/most-common-word/solution/shua-ti-kaf-by-coding-cafe-ah5o/) |
 | 821. Shortest Distance to a Character | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/821) | [题解](https://leetcode-cn.com/problems/shortest-distance-to-a-character/solution/by-coding-cafe-8vsa/) |
 | 829. Consecutive Numbers Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/838) | [题解](https://leetcode.cn/problems/consecutive-numbers-sum/solution/by-coding-cafe-vcl9/)，[视频](https://www.bilibili.com/video/BV1zF411G75Q/) |
