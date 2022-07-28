@@ -340,7 +340,8 @@
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
 | 1252. Cells with Odd Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1252) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
-| 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) |  |
+| 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) | ----- |
+| 1331. Rank Transform of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1331) | ----- |
 | 1332. Remove Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1332) | [题解](https://leetcode-cn.com/problems/remove-palindromic-subsequences/solution/xian-shan-chu-azai-shan-chu-b-by-sholmes-2ami/) |
 | 1342. Number of Steps to Reduce a Number to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1342) | [题解](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/shua-ti-ka-pei-guan-mo-ni-wei-yun-suan-b-l28v/) |
 | 1345. Jump Game IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1345) | [题解](https://leetcode-cn.com/problems/jump-game-iv/solution/jian-tu-bfsyou-hua-xiang-tong-zhi-by-sho-a75w/) |
