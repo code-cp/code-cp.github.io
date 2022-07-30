@@ -307,7 +307,8 @@
 | 933. Number of Recent Calls | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/933) | [题解](https://leetcode-cn.com/problems/number-of-recent-calls/solution/shua-ti-ka-pei-guan-dui-lie-by-coding-ca-esbu/) |
 | 937. Reorder Data in Log Files | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/937) | [题解](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/by-coding-cafe-qmcs/) |
 | 942. DI String Match | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/942) | [题解](https://leetcode.cn/problems/di-string-match/solution/shua-ti-ka-pei-guan-meng-yi-kan-shi-by-c-6x1h/) |
-| 953. Verifying an Alien Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/953) |  |
+| 952. Largest Component Size by Common Factor | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/952) | --- |
+| 953. Verifying an Alien Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/953) | --- |
 | 954. Array of Doubled Pairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/954) | [题解](https://leetcode-cn.com/problems/array-of-doubled-pairs/solution/shua-ti-ka-pei-guan-by-coding-cafe-2zg8/), [视频](https://www.bilibili.com/video/BV1dY4y1q7d4?share_source=copy_web) |
 | 961. N-Repeated Element in Size 2N Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/961) | [题解](https://leetcode-cn.com/problems/array-of-doubled-pairs/solution/shua-ti-ka-pei-guan-by-coding-cafe-2zg8/), [视频](https://www.bilibili.com/video/BV1ot4y1W7TL/) |
 | 965. Univalued Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/965) | --- |
