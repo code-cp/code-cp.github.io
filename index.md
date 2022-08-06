@@ -356,6 +356,7 @@
 | 1380. Lucky Numbers in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1380) | [题解](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/solution/shua-ti-ka-pei-guan-ju-zhen-bian-li-by-s-2nj1/) |
 | 1403. Minimum Subsequence in Non-Increasing Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1403) | ------ |
 | 1405. Longest Happy String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1405) | [题解](https://leetcode-cn.com/problems/longest-happy-string/solution/shua-ti-ka-pei-guan-tan-xin-dan-ojyou-cu-tioa/), [视频](https://www.bilibili.com/video/BV1yP4y1A777/) |
+| 1408. String Matching in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1408) | ------ |
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1414) | [题解](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/solution/shua-ti-ka-pei-guan-tan-xin-jie-fa-by-sh-wuvy/) |
 | 1447. Simplified Fractions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1447) |  |
 | 1449. Form Largest Integer With Digits That Add up to Target | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1449) | [视频](https://www.bilibili.com/video/BV1By4y1u72C?share\_source=copy\_web) |
