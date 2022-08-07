@@ -228,6 +228,7 @@
 | 617. Merge Two Binary Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/617) | --- |
 | 622. Design Circular Queue | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/622) | --- |
 | 623. Add One Row to Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/623) | --- |
+| 636. Exclusive Time of Functions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/636) | --- |
 | 647. Palindromic Substrings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/647) | --- |
 | 648. Replace Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/648) | --- |
 | 653. Two Sum IV - Input is a BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/653) |  |
