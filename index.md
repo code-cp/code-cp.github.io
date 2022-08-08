@@ -276,6 +276,7 @@
 | 748. Shortest Completing Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/748) | --- |
 | 749. Contain Virus | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/749) | --- |
 | 757. Set Intersection Size At Least Two | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/757) | [题解](https://leetcode.cn/problems/set-intersection-size-at-least-two/solution/shua-ti-ka-pei-guan-by-coding-cafe-0e1v/)，[视频](https://www.bilibili.com/video/BV1pr4y1773u/) |
+| 761. Special Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/761) | [题解](https://leetcode.cn/problems/special-binary-string/solution/by-coding-cafe-eqjb/)，[视频](https://www.bilibili.com/video/BV1ZV4y1x7K8/) |
 | 763. Partition Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/763) | --- |
 | 780. Reaching Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/790) | [题解](https://leetcode-cn.com/problems/reaching-points/solution/by-coding-cafe-lbg2/) |
 | 786. K-th Smallest Prime Fraction | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/786) | --- |
