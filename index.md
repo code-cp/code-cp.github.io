@@ -349,6 +349,7 @@
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
 | 1252. Cells with Odd Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1252) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
+| 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
 | 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) | ----- |
 | 1331. Rank Transform of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1331) | ----- |
 | 1332. Remove Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1332) | [题解](https://leetcode-cn.com/problems/remove-palindromic-subsequences/solution/xian-shan-chu-azai-shan-chu-b-by-sholmes-2ami/) |
