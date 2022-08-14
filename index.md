@@ -365,6 +365,7 @@
 | 1413. Minimum Value to Get Positive Step by Step Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1413) | ------ |
 | 1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1414) | [题解](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/solution/shua-ti-ka-pei-guan-tan-xin-jie-fa-by-sh-wuvy/) |
 | 1417. Reformat The String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1417) | ------ |
+| 1422. Maximum Score After Splitting a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1422) | ------ |
 | 1447. Simplified Fractions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1447) |  |
 | 1449. Form Largest Integer With Digits That Add up to Target | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1449) | [视频](https://www.bilibili.com/video/BV1By4y1u72C?share\_source=copy\_web) |
 | 1463. Cherry Pickup II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1463) |  |
