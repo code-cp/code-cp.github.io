@@ -377,6 +377,7 @@
 | 1610. Maximum Number of Visible Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1610) | ------ |
 | 1614. Maximum Nesting Depth of the Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1614) | ------ |
 | 1629. Slowest Key | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1629) | ------ |
+| 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
 | 1672. Richest Customer Wealth | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1672) | ------ |
 | 1688. Count of Matches in Tournament | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1688) | ------ |
 | 1706. Where Will the Ball Fall | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1706) | [题解](https://leetcode-cn.com/problems/where-will-the-ball-fall/solution/shua-ti-ka-pei-guan-shen-du-sou-suo-by-s-1jiy/) |
