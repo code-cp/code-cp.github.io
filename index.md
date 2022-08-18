@@ -349,6 +349,7 @@
 | 1217. Minimum Cost to Move Chips to The Same Position | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1217) | ------ |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
+| 1224. Maximum Equal Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1224) | ------ |
 | 1252. Cells with Odd Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1252) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
 | 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
