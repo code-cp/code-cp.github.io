@@ -375,6 +375,7 @@
 | 1449. Form Largest Integer With Digits That Add up to Target | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1449) | [视频](https://www.bilibili.com/video/BV1By4y1u72C?share\_source=copy\_web) |
 | 1450. Number of Students Doing Homework at a Given Time | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1450) | ------ |
 | 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1455) | ------ |
+| 1460. Make Two Arrays Equal by Reversing Sub-arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1460) | ------ |
 | 1463. Cherry Pickup II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1463) |  |
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1576) | [题解](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/-by-sholmes9091-mo3l/) |
