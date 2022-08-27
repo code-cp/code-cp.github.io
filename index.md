@@ -238,6 +238,7 @@
 | 655. Print Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/655) | --- |
 | 658. Find K Closest Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/658) | --- |
 | 661. Image Smoother | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/661) | [题解](https://leetcode-cn.com/problems/image-smoother/solution/by-sholmes9091-tfhc/) |
+| 662. Maximum Width of Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/662) | --- |
 | 668. Kth Smallest Number in Multiplication Table | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/668) | [题解](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/solution/by-coding-cafe-w78j/)，[视频](https://www.bilibili.com/video/BV1QU4y1m7SZ/) |
 | 669. Trim a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/669) | --- |
 | 674. Longest Continuous Increasing Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/674) | --- |
