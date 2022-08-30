@@ -329,6 +329,7 @@
 | 969. Pancake Sorting | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/969) | [题解](https://leetcode-cn.com/problems/pancake-sorting/solution/shua-ti-ka-pei-guan-jian-bing-pai-xu-by-sbk6h/) |
 | 977. Squares of a Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/977) | --- |
 | 997. Find the Town Judge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/997) | [题解](https://leetcode-cn.com/problems/find-the-town-judge/solution/tian-hei-qing-bi-yan-tou-piao-zhao-fa-gu-agv9/) |
+| 998. Maximum Binary Tree II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/998) | --- |
 | 1001. Grid Illumination | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1001) | [题解](https://leetcode-cn.com/problems/grid-illumination/solution/shua-ti-ka-pei-guan-ha-xi-biao-by-sholme-q3ao/)，[视频](https://www.bilibili.com/video/BV1VF411n7ba/) |
 | 1005. Maximize Sum Of Array After K Negations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1005) | ------ |
 | 1020. Number of Enclaves | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1020) | [题解](https://leetcode-cn.com/problems/number-of-enclaves/solution/shua-ti-ka-pei-guan-gen-ju-ti-shi-yong-t-y8fp/) |
