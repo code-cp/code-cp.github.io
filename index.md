@@ -234,6 +234,7 @@
 | 646. Maximum Length of Pair Chain | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/646) | --- |
 | 647. Palindromic Substrings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/647) | --- |
 | 648. Replace Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/648) | --- |
+| 652. Find Duplicate Subtrees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/652) | [视频](https://www.bilibili.com/video/BV1qd4y1G7mX/) |
 | 653. Two Sum IV - Input is a BST | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/653) |  |
 | 654. Maximum Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/654) | --- |
 | 655. Print Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/655) | --- |
