@@ -408,6 +408,7 @@
 | 1619. Mean of Array After Removing Some Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1619) | [视频](https://www.bilibili.com/video/BV1iW4y1i755/) |
 | 1624. Largest Substring Between Two Equal Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1624) | ------ |
 | 1629. Slowest Key | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1629) | ------ |
+| 1636. Sort Array by Increasing Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1636) | ------ |
 | 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
 | 1672. Richest Customer Wealth | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1672) | ------ |
 | 1688. Count of Matches in Tournament | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1688) | ------ |
