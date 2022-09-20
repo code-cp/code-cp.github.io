@@ -256,6 +256,7 @@
 | 691. Stickers to Spell Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/688) | [题解](https://leetcode.cn/problems/stickers-to-spell-word/solution/shua-ti-ka-pei-guan-by-coding-cafe-e9ig/)，[视频](https://www.bilibili.com/video/BV11Y4y1r7th/) |
 | 692. Top K Frequent Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/692) | --- |
 | 693. Binary Number with Alternating Bits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/693) | --- |
+| 698. Partition to K Equal Sum Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/698) | --- |
 | 699. Falling Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/699) | [题解](https://leetcode.cn/problems/falling-squares/solution/by-coding-cafe-pq2w/)，[视频](https://www.bilibili.com/video/BV1uA4y1Z7Cd/) |
 | 700. Search in a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/700) | --- |
 | 701. Insert into a Binary Search Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/701) | --- |
