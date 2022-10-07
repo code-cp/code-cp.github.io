@@ -426,6 +426,7 @@
 | 1763. Longest Nice Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1763) | [题解](https://leetcode-cn.com/problems/longest-nice-substring/solution/bao-li-jie-fa-by-sholmes9091-vokk/), [视频](https://www.bilibili.com/video/BV1a44y1p7Uj/) |
 | 1765. Map of Highest Peak | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1765) | [题解](https://leetcode-cn.com/problems/map-of-highest-peak/solution/duo-yuan-bfs-by-sholmes9091-iumb/) |
 | 1791. Find Center of Star Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1791) | [题解](https://leetcode-cn.com/problems/find-center-of-star-graph/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-dmjqt/) |
+| 1800. Maximum Ascending Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1800) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
 | 1823. Find the Winner of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1823) | [题解](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/solution/by-coding-cafe-o0qt/), [视频](https://www.bilibili.com/video/BV1mu411r7tV?share_source=copy_web) |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
