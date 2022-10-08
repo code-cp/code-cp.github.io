@@ -315,6 +315,7 @@
 | 857. Minimum Cost to Hire K Workers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/857) | --- |
 | 860. Lemonade Change | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/860) | --- |
 | 868. Binary Gap | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/868) | [题解](https://leetcode-cn.com/problems/binary-gap/solution/shua-ti-ka-pei-guan-jian-dan-cu-bao-wei-fnxth/) |
+| 870. Advantage Shuffle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/870) | [视频](https://www.bilibili.com/video/BV1s24y197xo/) |
 | 871. Minimum Number of Refueling Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/871) | --- |
 | 873. Length of Longest Fibonacci Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/873) | --- |
 | 875. Koko Eating Bananas | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/875) | --- |
