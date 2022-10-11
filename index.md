@@ -428,6 +428,7 @@
 | 1748. Sum of Unique Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1748) | [题解](https://leetcode-cn.com/problems/sum-of-unique-elements/solution/ha-xi-biao-by-sholmes9091-quup/) |
 | 1763. Longest Nice Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1763) | [题解](https://leetcode-cn.com/problems/longest-nice-substring/solution/bao-li-jie-fa-by-sholmes9091-vokk/), [视频](https://www.bilibili.com/video/BV1a44y1p7Uj/) |
 | 1765. Map of Highest Peak | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1765) | [题解](https://leetcode-cn.com/problems/map-of-highest-peak/solution/duo-yuan-bfs-by-sholmes9091-iumb/) |
+| 1790. Check if One String Swap Can Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1790) | ------ |
 | 1791. Find Center of Star Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1791) | [题解](https://leetcode-cn.com/problems/find-center-of-star-graph/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-dmjqt/) |
 | 1800. Maximum Ascending Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1800) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
