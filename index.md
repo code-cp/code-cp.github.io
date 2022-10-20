@@ -292,6 +292,7 @@
 | 763. Partition Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/763) | --- |
 | 768. Max Chunks To Make Sorted II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/768) | --- |
 | 769. Max Chunks To Make Sorted | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/769) | --- |
+| 779. K-th Symbol in Grammar | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/779) | --- |
 | 780. Reaching Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/780) | [题解](https://leetcode-cn.com/problems/reaching-points/solution/by-coding-cafe-lbg2/) |
 | 782. Transform to Chessboard | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/782) | [题解](https://leetcode.cn/problems/transform-to-chessboard/solution/by-coding-cafe-3os1/), [视频](https://www.bilibili.com/video/BV18P41157Qz/) |
 | 786. K-th Smallest Prime Fraction | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/786) | --- |
