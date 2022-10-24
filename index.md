@@ -336,6 +336,7 @@
 | 908. Smallest Range I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/908) | --- |
 | 911. Online Election | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/911) | --- |
 | 913. Cat and Mouse | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/913) | --- |
+| 915. Partition Array into Disjoint Intervals | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/915) | --- |
 | 917. Reverse Only Letters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/917) | [题解](https://leetcode-cn.com/problems/reverse-only-letters/solution/shua-ti-ka-pei-guan-shuang-zhi-zhen-by-s-muse/) |
 | 919. Complete Binary Tree Inserter | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/919) | --- |
 | 926. Flip String to Monotone Increasing | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/926) | [题解](https://leetcode.cn/problems/flip-string-to-monotone-increasing/solution/stkfg-by-coding-cafe-9mm0/) |
