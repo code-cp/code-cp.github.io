@@ -343,6 +343,7 @@
 | 927. Three Equal Parts | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/927) | [视频](https://www.bilibili.com/video/BV1Ge4y1n7bE/) |
 | 929. Unique Email Addresses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/929) | --- |
 | 933. Number of Recent Calls | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/933) | [题解](https://leetcode-cn.com/problems/number-of-recent-calls/solution/shua-ti-ka-pei-guan-dui-lie-by-coding-ca-esbu/) |
+| 934. Shortest Bridge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/934) | --- |
 | 937. Reorder Data in Log Files | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/937) | [题解](https://leetcode-cn.com/problems/reorder-data-in-log-files/solution/by-coding-cafe-qmcs/) |
 | 940. Distinct Subsequences II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/940) | --- |
 | 942. DI String Match | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/942) | [题解](https://leetcode.cn/problems/di-string-match/solution/shua-ti-ka-pei-guan-meng-yi-kan-shi-by-c-6x1h/) |
