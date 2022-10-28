@@ -334,6 +334,7 @@
 | 902. Numbers At Most N Given Digit Set | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/902) | --- |
 | 904. Fruit Into Baskets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/904) | [视频](https://www.bilibili.com/video/BV1he411V7L1/) |
 | 905. Sort Array By Parity | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/905) | [题解](https://leetcode-cn.com/problems/sort-array-by-parity/solution/shua-ti-ka-pei-guan-shuang-zhi-zhen-by-c-zb2r/) |
+| 907. Sum of Subarray Minimums | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/907) | [视频](https://www.bilibili.com/video/BV1Ye411G7rw/) |
 | 908. Smallest Range I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/908) | --- |
 | 911. Online Election | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/911) | --- |
 | 913. Cat and Mouse | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/913) | --- |
