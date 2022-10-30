@@ -295,6 +295,7 @@
 | 779. K-th Symbol in Grammar | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/779) | --- |
 | 780. Reaching Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/780) | [题解](https://leetcode-cn.com/problems/reaching-points/solution/by-coding-cafe-lbg2/) |
 | 782. Transform to Chessboard | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/782) | [题解](https://leetcode.cn/problems/transform-to-chessboard/solution/by-coding-cafe-3os1/), [视频](https://www.bilibili.com/video/BV18P41157Qz/) |
+| 784. Letter Case Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/784) | --- |
 | 786. K-th Smallest Prime Fraction | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/786) | --- |
 | 793. Preimage Size of Factorial Zeroes Function | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/793) | --- |
 | 794. Valid Tic-Tac-Toe State | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/794) | [题解](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/solution/hui-su-jian-zhi-jie-fa-by-sholmes9091-j8b1/) |
