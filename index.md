@@ -181,6 +181,7 @@
 | 475. Heaters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/475) | [题解](https://leetcode-cn.com/problems/heaters/solution/lin-dong-jiang-zhi-by-sholmes9091-skbq/) |
 | 478. Generate Random Point in a Circle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/478) | ---- |
 | 479. Largest Palindrome Product | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/479) | [题解](https://leetcode-cn.com/problems/largest-palindrome-product/solution/by-coding-cafe-1ruh/), [视频](https://www.bilibili.com/video/BV1o5411U78m/) |
+| 481. Magical String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/481) | [视频](https://www.bilibili.com/video/BV1Jg41167ZT/) |
 | 491. Increasing Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/491) | --- |
 | 494. Target Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/494) | ---- |
 | 496. Next Greater Element I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/496) | ---- |
