@@ -429,6 +429,7 @@
 | 1610. Maximum Number of Visible Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1610) | ------ |
 | 1614. Maximum Nesting Depth of the Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1614) | ------ |
 | 1619. Mean of Array After Removing Some Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1619) | [视频](https://www.bilibili.com/video/BV1iW4y1i755/) |
+| 1620. Coordinate With Maximum Network Quality | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1620) | ------ |
 | 1624. Largest Substring Between Two Equal Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1624) | ------ |
 | 1629. Slowest Key | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1629) | ------ |
 | 1636. Sort Array by Increasing Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1636) | ------ |
