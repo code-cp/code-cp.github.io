@@ -376,6 +376,7 @@
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
 | 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
+| 1106. Parsing A Boolean Expression | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1106) | [视频]() |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
