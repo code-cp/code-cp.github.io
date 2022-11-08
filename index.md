@@ -441,6 +441,7 @@
 | 1662. Check If Two String Arrays are Equivalent | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1662) | ------ |
 | 1668. Maximum Repeating Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1668) | [视频](https://www.bilibili.com/video/BV1Fe4y1t7ni/) |
 | 1672. Richest Customer Wealth | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1672) | ------ |
+| 1684. Count the Number of Consistent Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1684) |  |
 | 1688. Count of Matches in Tournament | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1688) | ------ |
 | 1700. Number of Students Unable to Eat Lunch | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1700) | ------ |
 | 1706. Where Will the Ball Fall | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1706) | [题解](https://leetcode-cn.com/problems/where-will-the-ball-fall/solution/shua-ti-ka-pei-guan-shen-du-sou-suo-by-s-1jiy/) |
