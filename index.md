@@ -292,6 +292,7 @@
 | 757. Set Intersection Size At Least Two | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/757) | [题解](https://leetcode.cn/problems/set-intersection-size-at-least-two/solution/shua-ti-ka-pei-guan-by-coding-cafe-0e1v/)，[视频](https://www.bilibili.com/video/BV1pr4y1773u/) |
 | 761. Special Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/761) | [题解](https://leetcode.cn/problems/special-binary-string/solution/by-coding-cafe-eqjb/)，[视频](https://www.bilibili.com/video/BV1ZV4y1x7K8/) |
 | 763. Partition Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/763) | --- |
+| 764. Largest Plus Sign | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/764) | --- |
 | 768. Max Chunks To Make Sorted II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/768) | --- |
 | 769. Max Chunks To Make Sorted | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/769) | --- |
 | 779. K-th Symbol in Grammar | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/779) | --- |
