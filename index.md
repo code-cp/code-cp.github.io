@@ -303,6 +303,7 @@
 | 786. K-th Smallest Prime Fraction | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/786) | --- |
 | 790. Domino and Tromino Tiling | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/790) | ------ |
 | 791. Custom Sort String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/791) | ------ |
+| 792. Number of Matching Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/792) | --- |
 | 793. Preimage Size of Factorial Zeroes Function | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/793) | --- |
 | 794. Valid Tic-Tac-Toe State | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/794) | [题解](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/solution/hui-su-jian-zhi-jie-fa-by-sholmes9091-j8b1/) |
 | 798. Smallest Rotation with Highest Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/798) | [题解](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/solution/shua-ti-ka-pei-guan-lei-jia-he-by-sholme-txpx/)，[视频](https://www.bilibili.com/video/BV1fP4y1g7Fp/) |
