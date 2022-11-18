@@ -340,6 +340,7 @@
 | 884. Uncommon Words from Two Sentences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/884) | [题解](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/solution/ha-xi-biao-by-sholmes9091-lwr7/) |
 | 886. Possible Bipartition | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/886) | --- |
 | 890. Find and Replace Pattern | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/890) | -- |
+| 891. Sum of Subsequence Widths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/891) | --- |
 | 899. Orderly Queue | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/899) | --- |
 | 901. Online Stock Span | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/901) | --- |
 | 902. Numbers At Most N Given Digit Set | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/902) | --- |
