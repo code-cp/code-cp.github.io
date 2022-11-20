@@ -307,6 +307,7 @@
 | 793. Preimage Size of Factorial Zeroes Function | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/793) | --- |
 | 794. Valid Tic-Tac-Toe State | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/794) | [题解](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/solution/hui-su-jian-zhi-jie-fa-by-sholmes9091-j8b1/) |
 | 798. Smallest Rotation with Highest Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/798) | [题解](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/solution/shua-ti-ka-pei-guan-lei-jia-he-by-sholme-txpx/)，[视频](https://www.bilibili.com/video/BV1fP4y1g7Fp/) |
+| 799. Champagne Tower | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/799) | [视频](https://www.bilibili.com/video/BV1EG4y147yq/) |
 | 801. Minimum Swaps To Make Sequences Increasing | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/801) | [视频](https://www.bilibili.com/video/BV1KK411Q7Ex/) |
 | 804. Unique Morse Code Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/804) | [题解](https://leetcode-cn.com/problems/unique-morse-code-words/solution/shua-ti-ka-pei-guan-rust-by-coding-cafe-1rn2/) |
 | 805. Split Array With Same Average | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/805) | [视频](https://www.bilibili.com/video/BV1L24y127QE/) |
