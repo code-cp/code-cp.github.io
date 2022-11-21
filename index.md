@@ -313,6 +313,7 @@
 | 805. Split Array With Same Average | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/805) | [视频](https://www.bilibili.com/video/BV1L24y127QE/) |
 | 806. Number of Lines To Write String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/806) | --- |
 | 807. Max Increase to Keep City Skyline | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/807) | --- |
+| 808. Soup Servings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/808) | [题解](https://leetcode.cn/problems/soup-servings/solutions/1983072/rust-dfsshi-xian-by-coding-cafe-lfb2/) |
 | 811. Subdomain Visit Count | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/811) | --- |
 | 812. Largest Triangle Area | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/812) | [题解](https://leetcode.cn/problems/largest-triangle-area/solution/shua-ti-ka-pei-guan-by-coding-cafe-hqat/), [视频](https://www.bilibili.com/video/BV1eA4y1f7C4/) |
 | 814. Binary Tree Pruning | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/814) | --- |
