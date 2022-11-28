@@ -318,6 +318,7 @@
 | 809. Expressive Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/809) | ------ |
 | 811. Subdomain Visit Count | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/811) | --- |
 | 812. Largest Triangle Area | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/812) | [题解](https://leetcode.cn/problems/largest-triangle-area/solution/shua-ti-ka-pei-guan-by-coding-cafe-hqat/), [视频](https://www.bilibili.com/video/BV1eA4y1f7C4/) |
+| 813. Largest Sum of Averages | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/813) | --- |
 | 814. Binary Tree Pruning | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/814) | --- |
 | 816. Ambiguous Coordinates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/816) | [视频](https://www.bilibili.com/video/BV1H8411h7Pg/) |
 | 817. Linked List Components | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/817) | --- |
