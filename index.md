@@ -348,6 +348,7 @@
 | 886. Possible Bipartition | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/886) | --- |
 | 890. Find and Replace Pattern | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/890) | -- |
 | 891. Sum of Subsequence Widths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/891) | --- |
+| 895. Maximum Frequency Stack | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/895) | --- |
 | 899. Orderly Queue | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/899) | --- |
 | 901. Online Stock Span | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/901) | --- |
 | 902. Numbers At Most N Given Digit Set | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/902) | --- |
