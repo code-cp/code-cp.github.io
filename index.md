@@ -486,6 +486,7 @@
 | 1796. Second Largest Digit in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1796) |  |
 | 1800. Maximum Ascending Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1800) | ------ |
 | 1805. Number of Different Integers in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1805) | ------ |
+| 1812. Determine Color of a Chessboard Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1812) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
 | 1822. Sign of the Product of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1822) | ------ |
 | 1823. Find the Winner of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1823) | [题解](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/solution/by-coding-cafe-o0qt/), [视频](https://www.bilibili.com/video/BV1mu411r7tV?share_source=copy_web) |
