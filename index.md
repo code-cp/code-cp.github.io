@@ -483,6 +483,7 @@
 | 1775. Equal Sum Arrays With Minimum Number of Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1775) |  |
 | 1779. Find Nearest Point That Has the Same X or Y Coordinate | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1779) |  |
 | 1780. Check if Number is a Sum of Powers of Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1780) | ------ |
+| 1781. Sum of Beauty of All Substrings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1781) | [视频]() |
 | 1790. Check if One String Swap Can Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1790) | ------ |
 | 1791. Find Center of Star Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1791) | [题解](https://leetcode-cn.com/problems/find-center-of-star-graph/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-dmjqt/) |
 | 1796. Second Largest Digit in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1796) |  |
