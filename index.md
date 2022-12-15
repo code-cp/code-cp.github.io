@@ -496,6 +496,7 @@
 | 1823. Find the Winner of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1823) | [题解](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/solution/by-coding-cafe-o0qt/), [视频](https://www.bilibili.com/video/BV1mu411r7tV?share_source=copy_web) |
 | 1827. Minimum Operations to Make the Array Increasing | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1827) | [题解](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/solutions/2015665/by-coding-cafe-lb5s/) |
 | 1832. Check if the Sentence Is Pangram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1832) | ------ |
+| 1945. Sum of Digits of String After Convert | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1945) | ------ |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
 | 1994. The Number of Good Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1994) | [题解](https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/shua-ti-ka-pei-guan-er-wei-dp-by-sholmes-jz8y/), [视频](https://www.bilibili.com/video/BV1ga411C7ju/) |
 | 1996. The Number of Weak Characters in the Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1996) | [题解](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/solution/shuang-zhi-zhen-by-sholmes9091-se25/), [视频](https://www.bilibili.com/video/BV1Ar4y1Y7J6/) |
