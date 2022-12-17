@@ -476,6 +476,7 @@
 | 1752. Check if Array Is Sorted and Rotated | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1752) |  |
 | 1758. Minimum Changes To Make Alternating Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1758) | ------ |
 | 1763. Longest Nice Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1763) | [题解](https://leetcode-cn.com/problems/longest-nice-substring/solution/bao-li-jie-fa-by-sholmes9091-vokk/), [视频](https://www.bilibili.com/video/BV1a44y1p7Uj/) |
+| 1764. Form Array by Concatenating Subarrays of Another Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1764) |  |
 | 1765. Map of Highest Peak | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1765) | [题解](https://leetcode-cn.com/problems/map-of-highest-peak/solution/duo-yuan-bfs-by-sholmes9091-iumb/) |
 | 1768. Merge Strings Alternately | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1768) |  |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1769) |  |
