@@ -509,6 +509,7 @@
 | 1996. The Number of Weak Characters in the Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1996) | [题解](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/solution/shuang-zhi-zhen-by-sholmes9091-se25/), [视频](https://www.bilibili.com/video/BV1Ar4y1Y7J6/) |
 | 2000. Reverse Prefix of Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2000) | [题解](https://leetcode-cn.com/problems/reverse-prefix-of-word/solution/shua-ti-ka-pei-guan-yong-zhan-fan-zhuan-7j9ea/) |
 | 2006. Count Number of Pairs With Absolute Difference K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2006) |  |
+| 2011. Final Value of Variable After Performing Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2011) |  |
 | 2013. Detect Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2013) | [题解](https://leetcode-cn.com/problems/detect-squares/solution/hashmapde-ccao-qing-xi-shi-xian-by-sholm-tiaz/), [视频](https://www.bilibili.com/video/BV1BP4y1P7VP?share\_source=copy\_web) |
 | 2016. Maximum Difference Between Increasing Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2016) | [题解](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-yua36/) |
 | 2022. Convert 1D Array Into 2D Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2022) | ------ |
