@@ -472,6 +472,7 @@
 | 1723. Find Minimum Time to Finish All Jobs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1723) | [题解](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs/solution/by-coding-cafe-0hdd/) |
 | 1725. Number Of Rectangles That Can Form The Largest Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1725) | [题解](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/solution/tan-xin-by-sholmes9091-hnfl/) |
 | 1732. Find the Highest Altitude | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1732) |  |
+| 1739. Building Boxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1739) |  |
 | 1742. Maximum Number of Balls in a Box | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1742) |  |
 | 1748. Sum of Unique Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1748) | [题解](https://leetcode-cn.com/problems/sum-of-unique-elements/solution/ha-xi-biao-by-sholmes9091-quup/) |
 | 1752. Check if Array Is Sorted and Rotated | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1752) |  |
