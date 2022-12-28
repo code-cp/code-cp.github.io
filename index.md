@@ -475,6 +475,7 @@
 | 1739. Building Boxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1739) |  |
 | 1742. Maximum Number of Balls in a Box | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1742) |  |
 | 1748. Sum of Unique Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1748) | [题解](https://leetcode-cn.com/problems/sum-of-unique-elements/solution/ha-xi-biao-by-sholmes9091-quup/) |
+| 1750. Minimum Length of String After Deleting Similar Ends | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1750) |  |
 | 1752. Check if Array Is Sorted and Rotated | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1752) |  |
 | 1753. Maximum Score From Removing Stones | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1753) |  |
 | 1754. Largest Merge Of Two Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1754) | [题解](https://leetcode.cn/problems/largest-merge-of-two-strings/solutions/2031060/zhe-dao-ti-mei-you-guan-fang-jie-da-by-c-ot6z/), [视频](https://www.bilibili.com/video/BV1Tg411b7vp/) |
