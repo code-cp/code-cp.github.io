@@ -521,6 +521,7 @@
 | 2027. Minimum Moves to Convert String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2027) | ------ |
 | 2028. Find Missing Observations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2028) | [题解](https://leetcode-cn.com/problems/find-missing-observations/solution/shua-ti-ka-pei-guan-dong-tai-diao-zheng-hb649/) |
 | 2029. Stone Game IX | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2029) | [题解](https://leetcode-cn.com/problems/stone-game-ix/solution/hui-su-jie-fa-by-sholmes9091-25n0/), [视频](https://www.bilibili.com/video/BV1Au41117nt?share\_source=copy\_web) |
+| 2032. Two Out of Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2032) | ------ |
 | 2034. Stock Price Fluctuation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2034) | ------ |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2038) | [题解](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solution/by-sholmes9091-6y6p/) |
 | 2039. The Time When the Network Becomes Idle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2039) | [题解](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/solution/by-sholmes9091-xtrk/)，[视频](https://www.bilibili.com/video/BV1Sb4y1p7QD/) |
