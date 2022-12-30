@@ -331,6 +331,7 @@
 | 846. Hand of Straights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/846) | --- |
 | 850. Rectangle Area II| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/850) | --- |
 | 854. K-Similar Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/854) | --- |
+| 855. Exam Room | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/855) | --- |
 | 856. Score of Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/856) | [视频](https://www.bilibili.com/video/BV1PP411775h/) |
 | 857. Minimum Cost to Hire K Workers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/857) | --- |
 | 860. Lemonade Change | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/860) | --- |
