@@ -524,6 +524,7 @@
 | 2029. Stone Game IX | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2029) | [题解](https://leetcode-cn.com/problems/stone-game-ix/solution/hui-su-jie-fa-by-sholmes9091-25n0/), [视频](https://www.bilibili.com/video/BV1Au41117nt?share\_source=copy\_web) |
 | 2032. Two Out of Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2032) | ------ |
 | 2034. Stock Price Fluctuation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2034) | ------ |
+| 2037. Minimum Number of Moves to Seat Everyone | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2037) | ------ |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2038) | [题解](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solution/by-sholmes9091-6y6p/) |
 | 2039. The Time When the Network Becomes Idle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2039) | [题解](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/solution/by-sholmes9091-xtrk/)，[视频](https://www.bilibili.com/video/BV1Sb4y1p7QD/) |
 | 2044. Count Number of Maximum Bitwise-OR Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2044) | [题解](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/shua-ti-ka-pei-guan-by-sholmes9091-m509/)，[视频](https://www.bilibili.com/video/BV1JL411P7JB/) |
