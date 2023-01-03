@@ -528,6 +528,7 @@
 | 2037. Minimum Number of Moves to Seat Everyone | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2037) | ------ |
 | 2038. Remove Colored Pieces if Both Neighbors are the Same Color | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2038) | [题解](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solution/by-sholmes9091-6y6p/) |
 | 2039. The Time When the Network Becomes Idle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2039) | [题解](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/solution/by-sholmes9091-xtrk/)，[视频](https://www.bilibili.com/video/BV1Sb4y1p7QD/) |
+| 2042. Check if Numbers Are Ascending in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2042) | ------ |
 | 2044. Count Number of Maximum Bitwise-OR Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2044) | [题解](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/shua-ti-ka-pei-guan-by-sholmes9091-m509/)，[视频](https://www.bilibili.com/video/BV1JL411P7JB/) |
 | 2045. Second Minimum Time to Reach Destination | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2045) | [题解](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/bfsdi-er-ci-bian-li-zhong-dian-fan-hui-j-9brl/) |
 | 2047. Number of Valid Words in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2047) | ------ |
