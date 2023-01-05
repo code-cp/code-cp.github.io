@@ -502,6 +502,7 @@
 | 1800. Maximum Ascending Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1800) | ------ |
 | 1801. Number of Orders in the Backlog | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1801) | ------ |
 | 1802. Maximum Value at a Given Index in a Bounded Array| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1802) | [视频](https://www.bilibili.com/video/BV1dG4y1m7QH/) |
+| 1803. Count Pairs With XOR in a Range | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1803) | ------ |
 | 1805. Number of Different Integers in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1805) | ------ |
 | 1812. Determine Color of a Chessboard Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1812) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
