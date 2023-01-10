@@ -288,6 +288,7 @@
 | 747. Largest Number At Least Twice of Others | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/747) | [题解](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/solution/tan-xin-by-sholmes9091-dp9g/) |
 | 748. Shortest Completing Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/748) | --- |
 | 749. Contain Virus | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/749) | --- |
+| 753. Cracking the Safe | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/753) | --- |
 | 754. Reach a Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/754) | [视频](https://www.bilibili.com/video/BV1g8411h7H8/) |
 | 757. Set Intersection Size At Least Two | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/757) | [题解](https://leetcode.cn/problems/set-intersection-size-at-least-two/solution/shua-ti-ka-pei-guan-by-coding-cafe-0e1v/)，[视频](https://www.bilibili.com/video/BV1pr4y1773u/) |
 | 761. Special Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/761) | [题解](https://leetcode.cn/problems/special-binary-string/solution/by-coding-cafe-eqjb/)，[视频](https://www.bilibili.com/video/BV1ZV4y1x7K8/) |
