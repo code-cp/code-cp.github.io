@@ -545,6 +545,7 @@
 | 2104. Sum of Subarray Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2104) | [题解](https://leetcode-cn.com/problems/sum-of-subarray-ranges/solution/shua-ti-ka-pei-guan-dong-gui-chao-shi-li-ttqn/)，[视频](https://www.bilibili.com/video/BV1P3411L7HT/) |
 | 2180. Count Integers With Even Digit Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2180) | ------ |
 | 2185. Counting Words With a Given Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2185) | ------ |
+| 2283. Check if Number Has Equal Digit Count and Digit Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2283) | ----- |
 | 2351. First Letter to Appear Twice | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2351) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
