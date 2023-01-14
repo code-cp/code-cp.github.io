@@ -510,6 +510,7 @@
 | 1807. Evaluate the Bracket Pairs of a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1807) | ------ |
 | 1812. Determine Color of a Chessboard Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1812) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
+| 1819. Number of Different Subsequences GCDs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1819) | ------ |
 | 1822. Sign of the Product of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1822) | ------ |
 | 1823. Find the Winner of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1823) | [题解](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/solution/by-coding-cafe-o0qt/), [视频](https://www.bilibili.com/video/BV1mu411r7tV?share_source=copy_web) |
 | 1827. Minimum Operations to Make the Array Increasing | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1827) | [题解](https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/solutions/2015665/by-coding-cafe-lb5s/) |
