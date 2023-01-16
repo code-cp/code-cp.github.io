@@ -509,6 +509,7 @@
 | 1806. Minimum Number of Operations to Reinitialize a Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1806) | ------ |
 | 1807. Evaluate the Bracket Pairs of a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1807) | ------ |
 | 1812. Determine Color of a Chessboard Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1812) | ------ |
+| 1813. Sentence Similarity III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1813) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
 | 1819. Number of Different Subsequences GCDs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1819) | ------ |
 | 1822. Sign of the Product of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1822) | ------ |
