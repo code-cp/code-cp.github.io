@@ -553,6 +553,7 @@
 | 2283. Check if Number Has Equal Digit Count and Digit Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2283) | ----- |
 | 2287. Rearrange Characters to Make Target String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2287) | ----- |
 | 2293. Min Max Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2293) | ----- |
+| 2299. Strong Password Checker II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2299) | ----- |
 | 2351. First Letter to Appear Twice | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2351) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
