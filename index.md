@@ -568,10 +568,10 @@
 | 5992. Maximum Good People Based on Statements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5992) | [题解](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements/solution/hui-su-san-bu-qu-qing-xi-kuang-jia-by-sh-t7en/), [视频](https://www.bilibili.com/video/BV1Vb4y1n7Z6/) |
 | 6003. Minimum Time to Remove All Cars Containing Illegal Goods | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5977) | [题解](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/solution/qian-hou-zhui-dp-by-sholmes9091-ops0/), [视频](https://www.bilibili.com/video/BV1u5411f7bb/) |
 | 6094. Naming a Company | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6094) | [视频](https://www.bilibili.com/video/BV17v4y1G7FB/) |
-| 6296. Alternating Digit Sum| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6296) | [视频]() |
-| 6297. Sort the Students by Their Kth Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6297) | [视频]() |
-| 6298. Apply Bitwise Operations to Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6298) | [视频]() |
-| 6299. Minimum Cost to Split an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6299) | [视频]() |
+| 6296. Alternating Digit Sum| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6296) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
+| 6297. Sort the Students by Their Kth Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6297) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
+| 6298. Apply Bitwise Operations to Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6298) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
+| 6299. Minimum Cost to Split an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6299) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
 
 ### 剑指 Offer
 
