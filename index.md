@@ -511,6 +511,7 @@
 | 1812. Determine Color of a Chessboard Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1812) | ------ |
 | 1813. Sentence Similarity III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1813) | ------ |
 | 1814. Count Nice Pairs in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1814) | ------ |
+| 1815. Maximum Number of Groups Getting Fresh Donuts | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1815) | ------ |
 | 1816. Truncate Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1816) | ------ |
 | 1817. Finding the Users Active Minutes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1817) | ------ |
 | 1819. Number of Different Subsequences GCDs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1819) | ------ |
