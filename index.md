@@ -565,6 +565,7 @@
 | 2303. Calculate Amount Paid in Taxes| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2303) | ------ |
 | 2309. Greatest English Letter in Upper and Lower Case | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2309) | ----- |
 | 2315. Count Asterisks | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2315) | ----- |
+| 2319. Check if Matrix Is X-Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2319) | ----- |
 | 2351. First Letter to Appear Twice | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2351) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
