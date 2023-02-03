@@ -398,6 +398,7 @@
 | 1106. Parsing A Boolean Expression | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1106) | [视频](https://www.bilibili.com/video/BV1BD4y1t7UG/?spm_id_from=333.999.0.0&vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1129. Shortest Path with Alternating Colors | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1129) | ------ |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
+| 1145. Binary Tree Coloring Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1145) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
 | 1175. Prime Arrangements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1175) | ------ |
