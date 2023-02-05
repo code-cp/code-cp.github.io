@@ -407,7 +407,7 @@
 | 1189. Maximum Number of Balloons | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1189) | [题解](https://leetcode-cn.com/problems/maximum-number-of-balloons/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-xrr8a/) |
 | 1200. Minimum Absolute Difference | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1200) | ------ |
 | 1206. Design Skiplist | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1206) | ------ |
-| 1210. Minimum Moves to Reach Target with Rotations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1210) | ------ |
+| 1210. Minimum Moves to Reach Target with Rotations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1210) | [视频](https://www.bilibili.com/video/BV1Xj411T7w1/?share_source=copy_web&vd_source=546cbd0226ee20a995514309f16cac4d) |
 | 1217. Minimum Cost to Move Chips to The Same Position | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1217) | ------ |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
