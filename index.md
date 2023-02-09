@@ -509,6 +509,7 @@
 | 1790. Check if One String Swap Can Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1790) | ------ |
 | 1791. Find Center of Star Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1791) | [题解](https://leetcode-cn.com/problems/find-center-of-star-graph/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-dmjqt/) |
 | 1796. Second Largest Digit in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1796) |  |
+| 1797. Design Authentication Manager | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1797) |  |
 | 1798. Maximum Number of Consecutive Values You Can Make | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1798) |  |
 | 1799. Maximize Score After N Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1799) | [题解](https://leetcode.cn/problems/maximize-score-after-n-operations/solutions/2028948/rustji-yi-hua-sou-suo-by-coding-cafe-vnwf/), [视频](https://www.bilibili.com/video/BV1hg411J7VH/) |
 | 1800. Maximum Ascending Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1800) | ------ |
