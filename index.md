@@ -415,7 +415,7 @@
 | 1223. Dice Roll Simulation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1223) | ------ |
 | 1224. Maximum Equal Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1224) | [视频](https://www.bilibili.com/video/BV1aU4y1r7Dp/) |
 | 1233. Remove Sub-Folders from the Filesystem | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1233) | [视频](https://www.bilibili.com/video/BV1j54y1N7fN/) |
-| 1234. Replace the Substring for Balanced String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1234) | ------ |
+| 1234. Replace the Substring for Balanced String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1234) | [视频](https://www.bilibili.com/video/BV1TM411e7W7/) |
 | 1235. Maximum Profit in Job Scheduling | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1235) | [视频](https://www.bilibili.com/video/BV1ce411576W/) |
 | 1252. Cells with Odd Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1252) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
