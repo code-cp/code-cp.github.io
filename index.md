@@ -399,6 +399,7 @@
 | 1124. Longest Well-Performing Interval | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1124) | [视频](https://www.bilibili.com/video/BV1he4y1w7xp/) |
 | 1129. Shortest Path with Alternating Colors | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1129) | ------ |
 | 1138. Alphabet Board Path | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1138) | ------ |
+| 1139. Largest 1-Bordered Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1139) | [视频](https://www.bilibili.com/video/BV1ED4y1A7nu/) |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
 | 1145. Binary Tree Coloring Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1145) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
