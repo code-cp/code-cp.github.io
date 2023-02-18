@@ -419,7 +419,7 @@
 | 1233. Remove Sub-Folders from the Filesystem | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1233) | [视频](https://www.bilibili.com/video/BV1j54y1N7fN/) |
 | 1234. Replace the Substring for Balanced String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1234) | [视频](https://www.bilibili.com/video/BV1TM411e7W7/) |
 | 1235. Maximum Profit in Job Scheduling | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1235) | [视频](https://www.bilibili.com/video/BV1ce411576W/) |
-| 1223. Dice Roll Simulation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1223) | ------ |
+| 1237. Find Positive Integer Solution for a Given Equation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1237) | ------ |
 | 1250. Check If It Is a Good Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1250) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
 | 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
