@@ -52,7 +52,7 @@
 | 80. Remove Duplicates from Sorted Array II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/80) | [视频](https://www.bilibili.com/video/BV12Q4y1Z7ZL?share\_source=copy\_web) |
 | 81. Search in Rotated Sorted Array II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/81) | [视频](https://www.bilibili.com/video/BV13p4y147u6?share\_source=copy\_web) |
 | 84. Largest Rectangle in Histogram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/84) | --- |
-| 89. Gray Code | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/89) | [视频](https://www.bilibili.com/video/BV1nw411Z7r9?share\_source=copy\_web), [题解](https://leetcode-cn.com/problems/gray-code/solution/dong-gui-jie-fa-by-sholmes9091-ch52/) |
+| 89. Gray Code | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/89) | [题解](https://leetcode-cn.com/problems/gray-code/solution/dong-gui-jie-fa-by-sholmes9091-ch52/), [视频](https://www.bilibili.com/video/BV1nw411Z7r9?share\_source=copy\_web) |
 | 90. Subsets II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/90) | --- |
 | 93. Restore IP Addresses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/93) | --- |
 | 94. Binary Tree Inorder Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/94) | --- |
@@ -599,6 +599,10 @@
 | 6297. Sort the Students by Their Kth Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6297) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
 | 6298. Apply Bitwise Operations to Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6298) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
 | 6299. Minimum Cost to Split an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6299) | [视频](https://www.bilibili.com/video/BV1x3411o7mn/) |
+| 6362. Merge Two 2D Arrays by Summing Values | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6362) | [视频](https://www.bilibili.com/video/BV1PR4y1v7zV/?vd_source=08e7803d6baa596a0719c10c06f22612) |
+| 6363. Find the String with LCP | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6363) | [题解](https://leetcode.cn/problems/find-the-string-with-lcp/solutions/2120542/rustjie-fa-by-coding-cafe-i8wi/), [视频](https://www.bilibili.com/video/BV1PR4y1v7zV/?vd_source=08e7803d6baa596a0719c10c06f22612) |
+| 6364. Count the Number of Square-Free Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6364) | [视频](https://www.bilibili.com/video/BV1PR4y1v7zV/?vd_source=08e7803d6baa596a0719c10c06f22612) |
+| 6365. Minimum Operations to Reduce an Integer to 0 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6365) | [视频](https://www.bilibili.com/video/BV1PR4y1v7zV/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 
 ### 剑指 Offer
 
