@@ -425,6 +425,7 @@
 | 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
 | 1302. Deepest Leaves Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1302) | ----- |
 | 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) | ----- |
+| 1326. Minimum Number of Taps to Open to Water a Garden | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1326) | ----- |
 | 1331. Rank Transform of an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1331) | ----- |
 | 1332. Remove Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1332) | [题解](https://leetcode-cn.com/problems/remove-palindromic-subsequences/solution/xian-shan-chu-azai-shan-chu-b-by-sholmes-2ami/) |
 | 1342. Number of Steps to Reduce a Number to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1342) | [题解](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/shua-ti-ka-pei-guan-mo-ni-wei-yun-suan-b-l28v/) |
