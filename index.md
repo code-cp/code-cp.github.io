@@ -402,6 +402,7 @@
 | 1139. Largest 1-Bordered Square | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1139) | [视频](https://www.bilibili.com/video/BV1ED4y1A7nu/) |
 | 1140. Stone Game II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1140) | ------ |
 | 1143. Longest Common Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1143) | ------ |
+| 1144. Decrease Elements To Make Array Zigzag | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1144) | ------ |
 | 1145. Binary Tree Coloring Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1145) | ------ |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
