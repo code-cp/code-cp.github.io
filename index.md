@@ -455,6 +455,7 @@
 | 1464. Maximum Product of Two Elements in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1464) |  |
 | 1470. Shuffle the Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1470) |  |
 | 1475. Final Prices With a Special Discount in a Shop | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1475) | [视频](https://www.bilibili.com/video/BV13W4y1b7Vd?share_source=copy_web&vd_source=546cbd0226ee20a995514309f16cac4d) |
+| 1487. Making File Names Unique | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1487) |  |
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1576) | [题解](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/-by-sholmes9091-mo3l/) |
 | 1582. Special Positions in a Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1582) |  |
