@@ -462,6 +462,7 @@
 | 1582. Special Positions in a Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1582) |  |
 | 1592. Rearrange Spaces Between Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1592) |  |
 | 1598. Crawler Log Folder | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1598) |  |
+| 1599. Maximum Profit of Operating a Centennial Wheel | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1599) |  |
 | 1601. Maximum Number of Achievable Transfer Requests | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1601) | [题解](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/solution/shua-ti-ka-pei-guan-hui-su-by-sholmes909-7knj/)，[视频](https://www.bilibili.com/video/BV1ST4y1Q7Ci/) |
 | 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1604) |  |
 | 1606. Find Servers That Handled Most Number of Requests | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1606) | [题解](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/solution/shua-ti-ka-pei-guan-er-fen-by-coding-caf-rwly/)，[视频](https://www.bilibili.com/video/BV1VF411s7yq/) |
