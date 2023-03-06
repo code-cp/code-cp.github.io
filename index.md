@@ -476,6 +476,7 @@
 | 1632. Rank Transform of a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1632) | ------ |
 | 1636. Sort Array by Increasing Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1636) | ------ |
 | 1640. Check Array Formation Through Concatenation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1640) | ------ |
+| 1653. Minimum Deletions to Make String Balanced | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1653) | ------ |
 | 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
 | 1658. Minimum Operations to Reduce X to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1658) | [视频](https://www.bilibili.com/video/BV1h24y1e73C/) |
 | 1662. Check If Two String Arrays are Equivalent | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1662) | ------ |
