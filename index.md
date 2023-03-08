@@ -628,6 +628,7 @@
 | **Problem** | **Solution** | **Supplementary** |
 |---|---|---|
 | 剑指 Offer 05. 替换空格 | [代码实现](https://github.com/code-cp/leetcode/tree/main/offer_solutions/5) | ------ |
+| 剑指 Offer 47. 礼物的最大价值 | [代码实现](https://github.com/code-cp/leetcode/tree/main/offer_solutions/47) | ------ |
 | 剑指 Offer 58 - II. 左旋转字符串 | [代码实现](https://github.com/code-cp/leetcode/tree/main/offer_solutions/58-II) | ------ |
 
 ### 程序员面试金典
