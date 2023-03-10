@@ -461,6 +461,7 @@
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1576) | [题解](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/-by-sholmes9091-mo3l/) |
 | 1582. Special Positions in a Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1582) |  |
+| 1590. Make Sum Divisible by P | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1590) |  |
 | 1592. Rearrange Spaces Between Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1592) |  |
 | 1598. Crawler Log Folder | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1598) |  |
 | 1599. Maximum Profit of Operating a Centennial Wheel | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1599) |  |
