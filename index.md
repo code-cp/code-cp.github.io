@@ -639,5 +639,6 @@
 |---|---|---|
 | 面试题 04.06. 后继者 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/04-06) | [题解](https://leetcode.cn/problems/successor-lcci/solution/-by-coding-cafe-iq7d/), [视频](https://www.bilibili.com/video/BV1MU4y1m7Qz/) |
 | 面试题 05.02. 二进制数转字符串 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/05-02) | ------ |
+| 面试题 17.05. 字母与数字 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/17-05) | ------ |
 | 面试题 17.11. 单词距离 | [代码实现](https://github.com/code-cp/leetcode/tree/main/interview_gold/17-11) | [题解](https://leetcode.cn/problems/find-closest-lcci/solution/by-coding-cafe-whyu/), [视频](https://www.bilibili.com/video/BV1nZ4y1b7oZ/) |
 
