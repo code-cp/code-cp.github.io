@@ -472,6 +472,7 @@
 | 1608. Special Array With X Elements Greater Than or Equal X | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1608) |  |
 | 1610. Maximum Number of Visible Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1610) | ------ |
 | 1614. Maximum Nesting Depth of the Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1614) | ------ |
+| 1615. Maximal Network Rank | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1615) | ------ |
 | 1617. Count Subtrees With Max Distance Between Cities | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1617) | ------ |
 | 1619. Mean of Array After Removing Some Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1619) | [视频](https://www.bilibili.com/video/BV1iW4y1i755/) |
 | 1620. Coordinate With Maximum Network Quality | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1620) | ------ |
