@@ -615,6 +615,7 @@
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
 | 2383. Minimum Hours of Training to Win a Competition | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2383) | ------ |
 | 2389. Longest Subsequence With Limited Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2389) | ------ |
+| 2395. Find Subarrays With Equal Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2395) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
