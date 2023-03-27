@@ -487,6 +487,7 @@
 | 1630. Arithmetic Subarrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1630) | ------ |
 | 1632. Rank Transform of a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1632) | ------ |
 | 1636. Sort Array by Increasing Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1636) | ------ |
+| 1638. Count Substrings That Differ by One Character | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1638) | ------ |
 | 1640. Check Array Formation Through Concatenation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1640) | ------ |
 | 1653. Minimum Deletions to Make String Balanced | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1653) | ------ |
 | 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
