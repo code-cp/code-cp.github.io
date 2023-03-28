@@ -398,6 +398,7 @@
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
 | 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
+| 1092. Shortest Common Supersequence  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1092) | ------ |
 | 1096. Brace Expansion II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1096) | ------ |
 | 1106. Parsing A Boolean Expression | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1106) | [视频](https://www.bilibili.com/video/BV1BD4y1t7UG/?spm_id_from=333.999.0.0&vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1124. Longest Well-Performing Interval | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1124) | [视频](https://www.bilibili.com/video/BV1he4y1w7xp/) |
