@@ -614,6 +614,7 @@
 | 2351. First Letter to Appear Twice | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2351) | ------ |
 | 2357. Make Array Zero by Subtracting Equal Amounts | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2357) | ------ |
 | 2363. Merge Similar Items | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2363) | ------ |
+| 2367. Number of Arithmetic Triplets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2367) | ------ |
 | 2373. Largest Local Values in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2373) | ------ |
 | 2379. Minimum Recolors to Get K Consecutive Black Blocks | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2379) | ------ |
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
