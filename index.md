@@ -384,6 +384,7 @@
 | 982. Triples with Bitwise AND Equal To Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/982) | --- |
 | 997. Find the Town Judge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/997) | [题解](https://leetcode-cn.com/problems/find-the-town-judge/solution/tian-hei-qing-bi-yan-tou-piao-zhao-fa-gu-agv9/) |
 | 998. Maximum Binary Tree II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/998) | --- |
+| 1000. Minimum Cost to Merge Stones | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1000) | --- |
 | 1001. Grid Illumination | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1001) | [题解](https://leetcode-cn.com/problems/grid-illumination/solution/shua-ti-ka-pei-guan-ha-xi-biao-by-sholme-q3ao/)，[视频](https://www.bilibili.com/video/BV1VF411n7ba/) |
 | 1005. Maximize Sum Of Array After K Negations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1005) | ------ |
 | 1012. Numbers With Repeated Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1012) | ------ |
