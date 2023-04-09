@@ -627,6 +627,7 @@
 | 2383. Minimum Hours of Training to Win a Competition | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2383) | ------ |
 | 2389. Longest Subsequence With Limited Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2389) | ------ |
 | 2395. Find Subarrays With Equal Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2395) | ------ |
+| 2399. Check Distances Between Same Letters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2399) | ------ |
 | 2427. Number of Common Factors | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2427) | ------ |
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
