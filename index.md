@@ -389,6 +389,7 @@
 | 1005. Maximize Sum Of Array After K Negations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1005) | ------ |
 | 1012. Numbers With Repeated Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1012) | ------ |
 | 1017. Convert to Base -2 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1017) | ------ |
+| 1019. Next Greater Node In Linked List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1019) | ------ |
 | 1020. Number of Enclaves | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1020) | [题解](https://leetcode-cn.com/problems/number-of-enclaves/solution/shua-ti-ka-pei-guan-gen-ju-ti-shi-yong-t-y8fp/) |
 | 1021. Remove Outermost Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1021) | [题解](https://leetcode.cn/problems/remove-outermost-parentheses/solution/by-coding-cafe-63od/) |
 | 1022. Sum of Root To Leaf Binary Numbers| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1022) | [题解](https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/solution/shua-ti-ka-pei-guan-ceng-xu-bian-li-by-c-zhge/) |
