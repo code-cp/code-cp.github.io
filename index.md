@@ -400,6 +400,7 @@
 | 1037. Valid Boomerang | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1037) | [题解](https://leetcode.cn/problems/valid-boomerang/solution/by-coding-cafe-aukk/) |
 | 1039. Minimum Score Triangulation of Polygon | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1039) | ----- |
 | 1040. Moving Stones Until Consecutive II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1040) | ----- |
+| 1041. Robot Bounded In Circle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1041) | ----- |
 | 1047. Remove All Adjacent Duplicates In String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1047) | ------ |
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
