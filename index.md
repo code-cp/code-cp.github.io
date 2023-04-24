@@ -428,6 +428,7 @@
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
 | 1157. Online Majority Element In Subarray | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1157) | [题解](https://leetcode.cn/problems/online-majority-element-in-subarray/solutions/2229693/xian-duan-shu-by-coding-cafe-fx2k/) |
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
+| 1163. Last Substring in Lexicographical Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1163) | [题解](https://leetcode.cn/problems/last-substring-in-lexicographical-order/solutions/2243673/dfsjian-zhi-by-coding-cafe-4ayy/), [视频]() |
 | 1175. Prime Arrangements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1175) | ------ |
 | 1184. Distance Between Bus Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1184) | ------ |
 | 1185. Day of the Week | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | ------ |
