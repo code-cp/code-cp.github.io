@@ -407,6 +407,7 @@
 | 1042. Flower Planting With No Adjacent | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1042) | ----- |
 | 1043. Partition Array for Maximum Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1043) | ----- |
 | 1047. Remove All Adjacent Duplicates In String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1047) | ------ |
+| 1048. Longest String Chain | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1048) | ------ |
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
 | 1053. Previous Permutation With One Swap | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1053) | ------ |
