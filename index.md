@@ -397,6 +397,7 @@
 | 1026. Maximum Difference Between Node and Ancestor | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1026) | ------ |
 | 1027. Longest Arithmetic Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1027) | ------ |
 | 1032. Stream of Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1032) | ------ |
+| 1033. Moving Stones Until Consecutive | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1033) | ------ |
 | 1034. Coloring A Border | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1034) | ------ |
 | 1035. Uncrossed Lines | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1035) | ------ |
 | 1036. Escape a Large Maze | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1036) | ----- |
