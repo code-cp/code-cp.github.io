@@ -465,6 +465,7 @@
 | 1345. Jump Game IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1345) | [题解](https://leetcode-cn.com/problems/jump-game-iv/solution/jian-tu-bfsyou-hua-xiang-tong-zhi-by-sho-a75w/) |
 | 1356. Sort Integers by The Number of 1 Bits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1356) | ------ |
 | 1374. Generate a String With Characters That Have Odd Counts | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1374) | ------ |
+| 1376. Time Needed to Inform All Employees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1376) | ------ |
 | 1380. Lucky Numbers in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1380) | [题解](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/solution/shua-ti-ka-pei-guan-ju-zhen-bian-li-by-s-2nj1/) |
 | 1392. Longest Happy Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1392) | ------ |
 | 1403. Minimum Subsequence in Non-Increasing Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1403) | ------ |
