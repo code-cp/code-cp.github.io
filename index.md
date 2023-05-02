@@ -380,6 +380,7 @@
 | 965. Univalued Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/965) | --- |
 | 968. Binary Tree Cameras | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/968) | --- |
 | 969. Pancake Sorting | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/969) | [题解](https://leetcode-cn.com/problems/pancake-sorting/solution/shua-ti-ka-pei-guan-jian-bing-pai-xu-by-sbk6h/) |
+| 970. Powerful Integers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/970) | --- |
 | 977. Squares of a Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/977) | --- |
 | 982. Triples with Bitwise AND Equal To Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/982) | --- |
 | 997. Find the Town Judge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/997) | [题解](https://leetcode-cn.com/problems/find-the-town-judge/solution/tian-hei-qing-bi-yan-tou-piao-zhao-fa-gu-agv9/) |
