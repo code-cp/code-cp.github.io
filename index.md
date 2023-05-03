@@ -387,6 +387,7 @@
 | 998. Maximum Binary Tree II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/998) | --- |
 | 1000. Minimum Cost to Merge Stones | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1000) | [视频](https://www.bilibili.com/video/BV1124y157vf/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1001. Grid Illumination | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1001) | [题解](https://leetcode-cn.com/problems/grid-illumination/solution/shua-ti-ka-pei-guan-ha-xi-biao-by-sholme-q3ao/)，[视频](https://www.bilibili.com/video/BV1VF411n7ba/) |
+| 1003. Check If Word Is Valid After Substitutions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1003) | ------ |
 | 1005. Maximize Sum Of Array After K Negations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1005) | ------ |
 | 1012. Numbers With Repeated Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1012) | ------ |
 | 1017. Convert to Base -2 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1017) | ------ |
