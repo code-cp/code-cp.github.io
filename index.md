@@ -663,6 +663,7 @@
 | 2427. Number of Common Factors | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2427) | ------ |
 | 2432. The Employee That Worked on the Longest Task | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2432) | ------ |
 | 2437. Number of Valid Clock Times | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2437) | ------ |
+| 2441. Largest Positive Integer That Exists With Its Negative | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2441) | ------ |
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
