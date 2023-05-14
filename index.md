@@ -417,6 +417,7 @@
 | 1049. Last Stone Weight II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1049) | ------ |
 | 1051. Height Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1051) | [题解](https://leetcode.cn/problems/height-checker/solution/by-coding-cafe-40kt/) |
 | 1053. Previous Permutation With One Swap | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1053) | ------ |
+| 1054. Distant Barcodes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1054) | ------ |
 | 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1092. Shortest Common Supersequence  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1092) | ------ |
 | 1096. Brace Expansion II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1096) | ------ |
