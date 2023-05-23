@@ -424,6 +424,7 @@
 | 1079. Letter Tile Possibilities | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1079) | ------ |
 | 1080. Insufficient Nodes in Root to Leaf Paths | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1080) | ------ |
 | 1089. Duplicate Zeros | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
+| 1090. Largest Values From Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1092. Shortest Common Supersequence  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1092) | ------ |
 | 1096. Brace Expansion II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1096) | ------ |
 | 1105. Filling Bookcase Shelves | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1105) | ------ |
