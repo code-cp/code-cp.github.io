@@ -427,6 +427,7 @@
 | 1090. Largest Values From Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1091. Shortest Path in Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1089) | ------ |
 | 1092. Shortest Common Supersequence  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1092) | ------ |
+| 1093. Statistics from a Large Sample | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1093) | ------ |
 | 1096. Brace Expansion II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1096) | ------ |
 | 1105. Filling Bookcase Shelves | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1105) | ------ |
 | 1106. Parsing A Boolean Expression | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1106) | [视频](https://www.bilibili.com/video/BV1BD4y1t7UG/?spm_id_from=333.999.0.0&vd_source=08e7803d6baa596a0719c10c06f22612) |
