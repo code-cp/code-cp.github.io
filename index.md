@@ -682,6 +682,7 @@
 | 2451. Odd String Difference | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2451) | ------ |
 | 2455. Average Value of Even Numbers That Are Divisible by Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2455) | ------ |
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
+| 2517. Maximum Tastiness of Candy Basket | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
