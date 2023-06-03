@@ -444,6 +444,7 @@
 | 1145. Binary Tree Coloring Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1145) | ------ |
 | 1147. Longest Chunked Palindrome Decomposition | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1147) | [题解](https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/solutions/2222127/kmpjie-fa-by-coding-cafe-26km/), [视频](https://www.bilibili.com/video/BV16N411w7aD/) |
 | 1154. Day of the Year | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1154) | [题解](https://leetcode-cn.com/problems/day-of-the-year/solution/dong-zhi-kuai-le-by-sholmes9091-i1zv/) |
+| 1156. Swap For Longest Repeated Character Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1156) | [视频](https://www.bilibili.com/video/BV1ah4y1s7qm/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1157. Online Majority Element In Subarray | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1157) | [题解](https://leetcode.cn/problems/online-majority-element-in-subarray/solutions/2229693/xian-duan-shu-by-coding-cafe-fx2k/) |
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
 | 1163. Last Substring in Lexicographical Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1163) | [题解](https://leetcode.cn/problems/last-substring-in-lexicographical-order/solutions/2243673/dfsjian-zhi-by-coding-cafe-4ayy/), [视频](https://www.bilibili.com/video/BV1rc411J7yz/?vd_source=08e7803d6baa596a0719c10c06f22612) |
@@ -684,7 +685,7 @@
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
 | 2517. Maximum Tastiness of Candy Basket | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
-| 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
+| 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2559) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
 | 5270. Minimum Path Cost in a Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5270) | ----- |
