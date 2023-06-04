@@ -682,6 +682,7 @@
 | 2446. Determine if Two Events Have Conflict | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2446) | ------ |
 | 2451. Odd String Difference | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2451) | ------ |
 | 2455. Average Value of Even Numbers That Are Divisible by Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2455) | ------ |
+| 2465. Number of Distinct Averages | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2465) | ------ |
 | 2469. Convert the Temperature | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2469) | ------ |
 | 2488. Count Subarrays With Median K | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2488) | ------ |
 | 2517. Maximum Tastiness of Candy Basket | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
