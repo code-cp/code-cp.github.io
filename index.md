@@ -467,6 +467,7 @@
 | 1235. Maximum Profit in Job Scheduling | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1235) | [视频](https://www.bilibili.com/video/BV1ce411576W/) |
 | 1237. Find Positive Integer Solution for a Given Equation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1237) | ------ |
 | 1238. Circular Permutation in Binary Representation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1238) | ------ |
+| 1240. Tiling a Rectangle with the Fewest Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1240) | ------ |
 | 1247. Minimum Swaps to Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1247) | ------ |
 | 1250. Check If It Is a Good Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1250) | ------ |
 | 1255. Maximum Score Words Formed by Letters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1255) | ------ |
