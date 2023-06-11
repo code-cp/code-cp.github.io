@@ -449,6 +449,7 @@
 | 1161. Maximum Level Sum of a Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1161) | ------ |
 | 1163. Last Substring in Lexicographical Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1163) | [题解](https://leetcode.cn/problems/last-substring-in-lexicographical-order/solutions/2243673/dfsjian-zhi-by-coding-cafe-4ayy/), [视频](https://www.bilibili.com/video/BV1rc411J7yz/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1170. Compare Strings by Frequency of the Smallest Character | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1170) | ------ |
+| 1171. Remove Zero Sum Consecutive Nodes from Linked List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1171) | ------ |
 | 1172. Dinner Plate Stacks | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1172) | ------ |
 | 1175. Prime Arrangements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1175) | ------ |
 | 1184. Distance Between Bus Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1184) | ------ |
