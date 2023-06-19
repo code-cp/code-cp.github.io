@@ -476,6 +476,7 @@
 | 1254. Number of Closed Islands | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1254) | ------ |
 | 1255. Maximum Score Words Formed by Letters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1255) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
+| 1262. Greatest Sum Divisible by Three | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1262) | ------ |
 | 1263. Minimum Moves to Move a Box to Their Target Location | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1263) | ------ |
 | 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
 | 1302. Deepest Leaves Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1302) | ----- |
