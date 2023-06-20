@@ -524,6 +524,7 @@
 | 1582. Special Positions in a Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1582) |  |
 | 1590. Make Sum Divisible by P | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1590) |  |
 | 1592. Rearrange Spaces Between Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1592) |  |
+| 1595. Minimum Cost to Connect Two Groups of Points | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1595) |  |
 | 1598. Crawler Log Folder | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1598) |  |
 | 1599. Maximum Profit of Operating a Centennial Wheel | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1599) |  |
 | 1601. Maximum Number of Achievable Transfer Requests | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1601) | [题解](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/solution/shua-ti-ka-pei-guan-hui-su-by-sholmes909-7knj/)，[视频](https://www.bilibili.com/video/BV1ST4y1Q7Ci/) |
