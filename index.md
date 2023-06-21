@@ -753,5 +753,6 @@
 | **Problem** | **Solution** | **Supplementary** |
 |---|---|---|
 | LCP 33. 蓄水 | [代码实现](https://github.com/code-cp/leetcode/tree/main/lcp/33) | ------ |
+| LCP 41. 黑白翻转棋 | [代码实现](https://github.com/code-cp/leetcode/tree/main/lcp/41) | ------ |
 
 
