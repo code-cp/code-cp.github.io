@@ -554,6 +554,7 @@
 | 1653. Minimum Deletions to Make String Balanced | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1653) | ------ |
 | 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
 | 1658. Minimum Operations to Reduce X to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1658) | [视频](https://www.bilibili.com/video/BV1h24y1e73C/) |
+| 1659. Maximize Grid Happiness | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1659) | [视频](https://www.bilibili.com/video/BV1cj411S7Kr/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 1662. Check If Two String Arrays are Equivalent | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1662) | ------ |
 | 1663. Smallest String With A Given Numeric Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1663) | ------ |
 | 1664. Ways to Make a Fair Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1664) | [视频](https://www.bilibili.com/video/BV1zR4y1h7yc/) |
