@@ -497,6 +497,7 @@
 | 1377. Frog Position After T Seconds | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1376) | ------ |
 | 1380. Lucky Numbers in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1380) | [题解](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/solution/shua-ti-ka-pei-guan-ju-zhen-bian-li-by-s-2nj1/) |
 | 1392. Longest Happy Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1392) | ------ |
+| 1401. Circle and Rectangle Overlapping | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1401) | ------ |
 | 1403. Minimum Subsequence in Non-Increasing Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1403) | ------ |
 | 1405. Longest Happy String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1405) | [题解](https://leetcode-cn.com/problems/longest-happy-string/solution/shua-ti-ka-pei-guan-tan-xin-dan-ojyou-cu-tioa/), [视频](https://www.bilibili.com/video/BV1yP4y1A777/) |
 | 1408. String Matching in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1408) | ------ |
