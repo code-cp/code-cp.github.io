@@ -456,6 +456,7 @@
 | 1177. Can Make Palindrome from Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1177) | ------ |
 | 1184. Distance Between Bus Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1184) | ------ |
 | 1185. Day of the Week | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | ------ |
+| 1186. Maximum Subarray Sum with One Deletion | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1186) | ------ |
 | 1187. Make Array Strictly Increasing | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1187) | ------ |
 | 1189. Maximum Number of Balloons | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1189) | [题解](https://leetcode-cn.com/problems/maximum-number-of-balloons/solution/shua-ti-ka-pei-guan-jian-dan-bian-li-by-xrr8a/) |
 | 1200. Minimum Absolute Difference | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1200) | ------ |
