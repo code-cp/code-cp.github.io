@@ -475,6 +475,7 @@
 | 1240. Tiling a Rectangle with the Fewest Squares | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1240) | ------ |
 | 1247. Minimum Swaps to Make Strings Equal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1247) | ------ |
 | 1250. Check If It Is a Good Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1250) | ------ |
+| 1253. Reconstruct a 2-Row Binary Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1253) | ------ |
 | 1254. Number of Closed Islands | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1254) | ------ |
 | 1255. Maximum Score Words Formed by Letters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1255) | ------ |
 | 1260. Shift 2D Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1260) | ------ |
