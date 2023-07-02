@@ -5,6 +5,7 @@
 | **Problem** | **Solution** | **Supplementary** |
 |---|---|---|
 | 1. Two Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1) | ---- |
+| 2. Add Two Numbers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2) | ---- |
 | 3. Longest Substring Without Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/3) | ---- |
 | 4. Median of Two Sorted Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/4) | --- |
 | 6. ZigZag Conversion | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/6) | ---- |
