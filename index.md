@@ -713,6 +713,7 @@
 | 2517. Maximum Tastiness of Candy Basket | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
 | 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2559) | ------ |
 | 2611. Mice and Cheese | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
+| 2679. Sum in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
 | 2699. Modify Graph Edge Weights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2699) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
