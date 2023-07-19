@@ -346,6 +346,7 @@
 | 870. Advantage Shuffle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/870) | [视频](https://www.bilibili.com/video/BV1s24y197xo/) |
 | 871. Minimum Number of Refueling Stops | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/871) | --- |
 | 873. Length of Longest Fibonacci Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/873) | --- |
+| 874. Walking Robot Simulation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/874) | --- |
 | 875. Koko Eating Bananas | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/875) | --- |
 | 878. Nth Magical Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/878) | --- |
 | 882. Reachable Nodes In Subdivided Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/882) | [题解](https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph/solutions/1991959/rustshou-xie-dijkstra-by-coding-cafe-9awd/)，[视频](https://www.bilibili.com/video/BV17e4y1g755/) |
