@@ -526,6 +526,7 @@
 | 1483. Kth Ancestor of a Tree Node | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1483) |  |
 | 1487. Making File Names Unique | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1487) |  |
 | 1494. Parallel Courses II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1494) |  |
+| 1499. Max Value of Equation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1499) |  |
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
 | 1574. Shortest Subarray to be Removed to Make Array Sorted | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1574) |  |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1576) | [题解](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/solution/-by-sholmes9091-mo3l/) |
