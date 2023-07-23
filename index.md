@@ -28,7 +28,7 @@
 | 37. Sudoku Solver | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/37) | --- |
 | 39. Combination Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/39) | --- |
 | 40. Combination Sum II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/40) | --- |
-| 42. Trapping Rain Water | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/42) | [视频](https://www.bilibili.com/video/BV1p64y1d7qi?share\_source=copy\_web) |
+| 42. Trapping Rain Water | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/42) | [视频1](https://www.bilibili.com/video/BV1p64y1d7qi?share\_source=copy\_web), [视频2]( https://www.bilibili.com/video/BV1fM4y1s7AW/?share_source=copy_web&vd_source=546cbd0226ee20a995514309f16cac4d) |
 | 45. Jump Game II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/45) | [视频](https://www.bilibili.com/video/BV11N411Z7gh?share\_source=copy\_web) |
 | 46. Permutations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/46) | --- |
 | 47. Permutations II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/47) | --- |
