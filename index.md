@@ -671,6 +671,7 @@
 | 2178. Maximum Split of Positive Even Integers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2106) | ------ |
 | 2180. Count Integers With Even Digit Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2180) | ------ |
 | 2185. Counting Words With a Given Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2185) | ------ |
+| 2208. Minimum Operations to Halve Array Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2208) | ------ |
 | 2283. Check if Number Has Equal Digit Count and Digit Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2283) | ----- |
 | 2287. Rearrange Characters to Make Target String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2287) | ----- |
 | 2293. Min Max Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2293) | ----- |
