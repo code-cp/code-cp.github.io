@@ -85,6 +85,7 @@
 | 139. Word Break | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/139) | ----- |
 | 141. Linked List Cycle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/141) | ---- |
 | 142. Linked List Cycle II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/142) | ----- |
+| 143. Reorder List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/143) | ----- |
 | 144. Binary Tree Preorder Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/144) | ----- |
 | 145. Binary Tree Postorder Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/145) | ---- |
 | 150. Evaluate Reverse Polish Notation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/150) | ----- |
