@@ -277,7 +277,7 @@
 | 718. Maximum Length of Repeated Subarray | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/718) | --- |
 | 719. Find K-th Smallest Pair Distance | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/719) | [题解](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/solution/by-coding-cafe-gnck/) |
 | 720. Longest Word in Dictionary | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/720) | [题解](https://leetcode-cn.com/problems/longest-word-in-dictionary/solution/by-sholmes9091-cqz0/)，[视频](https://www.bilibili.com/video/BV1wU4y1Z7S4/) |
-| 722. Remove Comments | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/722) | --- |
+| 722. Remove Comments | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/722) | [视频](https://www.bilibili.com/video/BV1Wh4y1r7ns/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 728. Self Dividing Numbers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/728) | --- |
 | 729. My Calendar I | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/729) | --- |
 | 730. Count Different Palindromic Subsequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/730) | --- |
