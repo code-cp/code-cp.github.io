@@ -16,6 +16,7 @@
 | 18. 4Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/18) | [视频](https://www.bilibili.com/video/BV1eA411G7YD?share\_source=copy\_web) |
 | 19. Remove Nth Node From End of List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/19) | ----- |
 | 20. Valid Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/20) | ----- |
+| 21. Merge Two Sorted Lists | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/21) | ----- |
 | 22. Generate Parentheses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/22) | [视频](https://www.bilibili.com/video/BV1SV411y7YM/) |
 | 24. Swap Nodes in Pairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/24) | ---- |
 | 26. Remove Duplicates from Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/26) | [视频](https://www.bilibili.com/video/BV12Q4y1Z7ZL?share\_source=copy\_web) |
