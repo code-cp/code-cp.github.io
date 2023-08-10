@@ -493,6 +493,7 @@
 | 1263. Minimum Moves to Move a Box to Their Target Location | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1263) | ------ |
 | 1281. Subtract the Product and Sum of Digits of an Integer | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1281) | ------ |
 | 1282. Group the People Given the Group Size They Belong To | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1282) | ------ |
+| 1289. Minimum Falling Path Sum II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1289) | ------ |
 | 1302. Deepest Leaves Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1302) | ----- |
 | 1305. All Elements in Two Binary Search Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1305) | ----- |
 | 1326. Minimum Number of Taps to Open to Water a Garden | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1326) | ----- |
