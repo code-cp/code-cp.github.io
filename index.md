@@ -55,6 +55,7 @@
 | 80. Remove Duplicates from Sorted Array II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/80) | [视频](https://www.bilibili.com/video/BV12Q4y1Z7ZL?share\_source=copy\_web) |
 | 81. Search in Rotated Sorted Array II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/81) | [视频](https://www.bilibili.com/video/BV13p4y147u6?share\_source=copy\_web) |
 | 84. Largest Rectangle in Histogram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/84) | --- |
+| 88. Merge Sorted Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/88) | --- |
 | 89. Gray Code | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/89) | [题解](https://leetcode-cn.com/problems/gray-code/solution/dong-gui-jie-fa-by-sholmes9091-ch52/), [视频](https://www.bilibili.com/video/BV1nw411Z7r9?share\_source=copy\_web) |
 | 90. Subsets II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/90) | --- |
 | 93. Restore IP Addresses | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/93) | --- |
