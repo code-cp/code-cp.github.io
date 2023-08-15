@@ -339,6 +339,7 @@
 | 828. Count Unique Characters of All Substrings of a Given String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/828) | [题解](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/solution/shua-ti-ka-pei-guan-by-coding-cafe-dyhz/) |
 | 829. Consecutive Numbers Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/838) | [题解](https://leetcode.cn/problems/consecutive-numbers-sum/solution/by-coding-cafe-vcl9/)，[视频](https://www.bilibili.com/video/BV1zF411G75Q/) |
 | 831. Masking Personal Information | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/831) | --- |
+| 833. Find And Replace in String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/833) | --- |
 | 838. Push Dominoes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/838) | [题解](https://leetcode-cn.com/problems/push-dominoes/solution/shua-ti-ka-pei-guan-zuo-zuo-you-you-by-s-iesa/)，[视频](https://www.bilibili.com/video/BV1o44y1J7xf/) |
 | 846. Hand of Straights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/846) | --- |
 | 850. Rectangle Area II| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/850) | --- |
