@@ -513,6 +513,7 @@
 | 1376. Time Needed to Inform All Employees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1376) | ------ |
 | 1377. Frog Position After T Seconds | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1376) | ------ |
 | 1380. Lucky Numbers in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1380) | [题解](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/solution/shua-ti-ka-pei-guan-ju-zhen-bian-li-by-s-2nj1/) |
+| 1388. Pizza With 3n Slices | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1388) | ------ |
 | 1392. Longest Happy Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1392) | ------ |
 | 1401. Circle and Rectangle Overlapping | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1401) | ------ |
 | 1403. Minimum Subsequence in Non-Increasing Order | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1403) | ------ |
