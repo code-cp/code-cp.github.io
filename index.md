@@ -528,6 +528,7 @@
 | 1441. Build an Array With Stack Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1441) | ----- |
 | 1444. Number of Ways of Cutting a Pizza | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1444) | ----- |
 | 1447. Simplified Fractions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1447) |  |
+| 1448. Count Good Nodes in Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1448) |  |
 | 1449. Form Largest Integer With Digits That Add up to Target | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1449) | [视频](https://www.bilibili.com/video/BV1By4y1u72C?share\_source=copy\_web) |
 | 1450. Number of Students Doing Homework at a Given Time | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1450) | ------ |
 | 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1455) | ------ |
