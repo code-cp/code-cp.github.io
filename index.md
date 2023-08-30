@@ -578,6 +578,7 @@
 | 1640. Check Array Formation Through Concatenation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1640) | ------ |
 | 1641. Count Sorted Vowel Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1641) | ------ |
 | 1653. Minimum Deletions to Make String Balanced | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1653) | ------ |
+| 1654. Minimum Jumps to Reach Home | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1654) | ------ |
 | 1656. Design an Ordered Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1656) | ------ |
 | 1658. Minimum Operations to Reduce X to Zero | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1658) | [视频](https://www.bilibili.com/video/BV1h24y1e73C/) |
 | 1659. Maximize Grid Happiness | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1659) | [视频](https://www.bilibili.com/video/BV1cj411S7Kr/?vd_source=08e7803d6baa596a0719c10c06f22612) |
