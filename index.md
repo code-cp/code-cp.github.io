@@ -615,6 +615,7 @@
 | 1758. Minimum Changes To Make Alternating Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1758) | ------ |
 | 1759. Count Number of Homogenous Substrings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1759) |  |
 | 1760. Minimum Limit of Balls in a Bag | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1760) |  |
+| 1761. Minimum Degree of a Connected Trio in a Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1761) |  |
 | 1763. Longest Nice Substring | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1763) | [题解](https://leetcode-cn.com/problems/longest-nice-substring/solution/bao-li-jie-fa-by-sholmes9091-vokk/), [视频](https://www.bilibili.com/video/BV1a44y1p7Uj/) |
 | 1764. Form Array by Concatenating Subarrays of Another Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1764) |  |
 | 1765. Map of Highest Peak | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1765) | [题解](https://leetcode-cn.com/problems/map-of-highest-peak/solution/duo-yuan-bfs-by-sholmes9091-iumb/) |
