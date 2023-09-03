@@ -657,6 +657,7 @@
 | 1828. Queries on Number of Points Inside a Circle | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1828) | ------ |
 | 1832. Check if the Sentence Is Pangram | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1832) | ------ |
 | 1851. Minimum Interval to Include Each Query | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1851) | ------ |
+| 1921. Eliminate Maximum Number of Monsters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1921) | ------ |
 | 1971. Find if Path Exists in Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1971) | ------ |
 | 1945. Sum of Digits of String After Convert | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1945) | ------ |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
