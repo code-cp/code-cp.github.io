@@ -747,6 +747,7 @@
 | 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2559) | ------ |
 | 2569. Handling Sum Queries After Update | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2569) | ------ |
 | 2600. K Items With the Maximum Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2600) | ------ |
+| 2605. Form Smallest Number From Two Digit Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2605) | ------ |
 | 2611. Mice and Cheese | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
 | 2679. Sum in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
 | 2681. Power of Heroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2681) | ------ |
