@@ -102,6 +102,7 @@
 | 202. Happy Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/202) | --- |
 | 203. Remove Linked List Elements | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/203) | --- |
 | 206. Reverse Linked List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/206) | --- |
+| 207. Course Schedule | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/207) | --- |
 | 209. Minimum Size Subarray Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/209) | --- |
 | 213. House Robber II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/213) | --- |
 | 216. Combination Sum III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/216) | --- |
