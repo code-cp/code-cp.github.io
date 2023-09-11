@@ -240,6 +240,7 @@
 | 617. Merge Two Binary Trees | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/617) | --- |
 | 622. Design Circular Queue | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/622) | --- |
 | 623. Add One Row to Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/623) | --- |
+| 630. Course Schedule III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/630) | --- |
 | 636. Exclusive Time of Functions | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/636) | --- |
 | 640. Solve the Equation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/640) | --- |
 | 641. Design Circular Deque | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/641) | --- |
