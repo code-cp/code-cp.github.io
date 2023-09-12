@@ -540,6 +540,7 @@
 | 1450. Number of Students Doing Homework at a Given Time | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1450) | ------ |
 | 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1455) | ------ |
 | 1460. Make Two Arrays Equal by Reversing Sub-arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1460) | ------ |
+| 1462. Course Schedule IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1462) | ------ |
 | 1463. Cherry Pickup II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1463) |  |
 | 1464. Maximum Product of Two Elements in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1464) |  |
 | 1470. Shuffle the Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1470) |  |
