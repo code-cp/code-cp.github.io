@@ -485,6 +485,7 @@
 | 1217. Minimum Cost to Move Chips to The Same Position | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1217) | ------ |
 | 1219. Path with Maximum Gold | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1219) | [题解](https://leetcode-cn.com/problems/path-with-maximum-gold/solution/hui-su-san-bu-qu-by-sholmes9091-9yq6/) |
 | 1220. Count Vowels Permutation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1185) | [题解](https://leetcode-cn.com/problems/count-vowels-permutation/solution/jian-dan-dong-gui-by-sholmes9091-cmah/) |
+| 1222. Queens That Can Attack the King | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1222) | ------ |
 | 1223. Dice Roll Simulation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1223) | ------ |
 | 1224. Maximum Equal Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1224) | [视频](https://www.bilibili.com/video/BV1aU4y1r7Dp/) |
 | 1233. Remove Sub-Folders from the Filesystem | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1233) | [视频](https://www.bilibili.com/video/BV1j54y1N7fN/) |
