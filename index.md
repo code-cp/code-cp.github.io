@@ -753,6 +753,7 @@
 | 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2559) | ------ |
 | 2560. House Robber IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2560) | [视频](https://www.bilibili.com/video/BV1394y1p7uJ/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 2569. Handling Sum Queries After Update | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2569) | ------ |
+| 2591. Distribute Money to Maximum Children | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2591) | ------ |
 | 2594. Minimum Time to Repair Cars | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2594) | ------ |
 | 2596. Check Knight Tour Configuration | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2596) | ------ |
 | 2600. K Items With the Maximum Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2600) | ------ |
