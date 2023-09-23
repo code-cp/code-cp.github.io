@@ -667,6 +667,7 @@
 | 1971. Find if Path Exists in Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1971) | ------ |
 | 1945. Sum of Digits of String After Convert | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1945) | ------ |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
+| 1993. Operations on Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1993) |  |
 | 1994. The Number of Good Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1994) | [题解](https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/shua-ti-ka-pei-guan-er-wei-dp-by-sholmes-jz8y/), [视频](https://www.bilibili.com/video/BV1ga411C7ju/) |
 | 1996. The Number of Weak Characters in the Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1996) | [题解](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/solution/shuang-zhi-zhen-by-sholmes9091-se25/), [视频](https://www.bilibili.com/video/BV1Ar4y1Y7J6/) |
 | 2000. Reverse Prefix of Word | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2000) | [题解](https://leetcode-cn.com/problems/reverse-prefix-of-word/solution/shua-ti-ka-pei-guan-yong-zhan-fan-zhuan-7j9ea/) |
