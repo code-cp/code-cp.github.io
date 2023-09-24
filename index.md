@@ -92,6 +92,7 @@
 | 143. Reorder List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/143) | ----- |
 | 144. Binary Tree Preorder Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/144) | ----- |
 | 145. Binary Tree Postorder Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/145) | ---- |
+| 146. LRU Cache | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/146) | ---- |
 | 150. Evaluate Reverse Polish Notation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/150) | ----- |
 | 151. Reverse Words in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/151) | ----- |
 | 160. Intersection of Two Linked Lists | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/160) | --- |
