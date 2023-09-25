@@ -183,6 +183,7 @@
 | 455. Assign Cookies | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/455) | ---- |
 | 458. Poor Pigs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/458) | ---- |
 | 459. Repeated Substring Pattern | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/459) | ---- |
+| 460. LFU Cache | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/460) | ---- |
 | 461. Hamming Distance | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/461) | ---- |
 | 462. Minimum Moves to Equal Array Elements II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/462) | [题解](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/solution/by-coding-cafe-cg2n/), [视频](https://www.bilibili.com/video/BV1FU4y1U7gG/) |
 | 464. Can I Win | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/464) | [题解](https://leetcode.cn/problems/can-i-win/solution/shua-ti-ka-pei-guan-by-coding-cafe-8qgd/) |
