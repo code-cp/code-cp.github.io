@@ -700,6 +700,7 @@
 | 2100. Find Good Days to Rob the Bank | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2100) | [题解](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/solution/shua-ti-ka-pei-guan-yi-wei-shi-dan-diao-r1ynh/)，[视频](https://www.bilibili.com/video/BV14F41147mf/) |
 | 2104. Sum of Subarray Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2104) | [题解](https://leetcode-cn.com/problems/sum-of-subarray-ranges/solution/shua-ti-ka-pei-guan-dong-gui-chao-shi-li-ttqn/)，[视频](https://www.bilibili.com/video/BV1P3411L7HT/) |
 | 2106. Maximum Fruits Harvested After at Most K Steps | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2106) | ------ |
+| 2136. Earliest Possible Day of Full Bloom | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2136) | ------ |
 | 2178. Maximum Split of Positive Even Integers | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2106) | ------ |
 | 2180. Count Integers With Even Digit Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2180) | ------ |
 | 2185. Counting Words With a Given Prefix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2185) | ------ |
