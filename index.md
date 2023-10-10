@@ -773,6 +773,7 @@
 | 2681. Power of Heroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2681) | ------ |
 | 2682. Find the Losers of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2682) | ------ |
 | 2699. Modify Graph Edge Weights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2699) | ------ |
+| 2731. Movement of Robots | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2731) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
 | 5259. Calculate Amount Paid in Taxes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5259) | ----- |
 | 5270. Minimum Path Cost in a Grid | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5270) | ----- |
