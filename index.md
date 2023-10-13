@@ -552,6 +552,7 @@
 | 1475. Final Prices With a Special Discount in a Shop | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1475) | [视频](https://www.bilibili.com/video/BV13W4y1b7Vd?share_source=copy_web&vd_source=546cbd0226ee20a995514309f16cac4d) |
 | 1483. Kth Ancestor of a Tree Node | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1483) |  |
 | 1487. Making File Names Unique | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1487) |  |
+| 1488. Avoid Flood in The City | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1488) |  |
 | 1494. Parallel Courses II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1494) |  |
 | 1499. Max Value of Equation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1499) |  |
 | 1518. Water Bottles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1518) | [题解](https://leetcode-cn.com/problems/water-bottles/solution/zai-lai-yi-ping-by-sholmes9091-y2m6/) |
