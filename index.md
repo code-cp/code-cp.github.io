@@ -758,6 +758,7 @@
 | 2511. Maximum Enemy Forts That Can Be Captured | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2511) | ------ |
 | 2512. Reward Top K Students | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2512) | ------ |
 | 2517. Maximum Tastiness of Candy Basket | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2517) | ------ |
+| 2525. Categorize Box According to Criteria | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2525) | ------ |
 | 2530. Maximal Score After Applying K Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2530) | ------ |
 | 2532. Time to Cross a Bridge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2532) | ------ |
 | 2050. Parallel Courses III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2050) | ------ |
