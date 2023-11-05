@@ -97,6 +97,7 @@
 | 151. Reverse Words in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/151) | ----- |
 | 160. Intersection of Two Linked Lists | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/160) | --- |
 | 172. Factorial Trailing Zeroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/172) |  |
+| 187. Repeated DNA Sequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/187) |  |
 | 188. Best Time to Buy and Sell Stock IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/188) | --- |
 | 190. Reverse Bits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/190) | --- |
 | 198. House Robber | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/198) | --- |
@@ -165,6 +166,7 @@
 | 417. Pacific Atlantic Water Flow | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/417) | [题解](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/solution/shua-ti-ka-pei-guan-by-coding-cafe-bytg/)，[视频](https://www.bilibili.com/video/BV1cZ4y1y7oR/) |
 | 419. Battleships in a Board | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/419) | ---- |
 | 420. Strong Password Checker | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/420) | [题解](https://leetcode-cn.com/problems/strong-password-checker/solution/by-coding-cafe-17jv/)，[视频](https://www.bilibili.com/video/BV14L4y1L7ju?share_source=copy_web) |
+| 421. Maximum XOR of Two Numbers in an Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/421) | ---- |
 | 427. Construct Quad Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/427) | [题解](https://leetcode-cn.com/problems/construct-quad-tree/solution/by-coding-cafe-w14i/)，[视频](https://www.bilibili.com/video/BV1vR4y1P7f4/) |
 | 429. N-ary Tree Level Order Traversal | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/429) |  |
 | 432. All O one Data Structure | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/432) | [题解](https://leetcode-cn.com/problems/all-oone-data-structure/solution/shua-ti-ka-pei-guan-by-sholmes9091-mwnm/)，[视频](https://www.bilibili.com/video/BV1YL4y1T7FS/) |
