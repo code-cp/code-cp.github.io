@@ -770,6 +770,7 @@
 | 2569. Handling Sum Queries After Update | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2569) | ------ |
 | 2578. Split With Minimum Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2578) | ------ |
 | 2582. Pass the Pillow | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2582) | ------ |
+| 2586. Count the Number of Vowel Strings in Range | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2586) | ------ |
 | 2591. Distribute Money to Maximum Children | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2591) | ------ |
 | 2594. Minimum Time to Repair Cars | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2594) | ------ |
 | 2596. Check Knight Tour Configuration | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2596) | ------ |
