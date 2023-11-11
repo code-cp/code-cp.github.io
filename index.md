@@ -312,6 +312,7 @@
 | 761. Special Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/761) | [题解](https://leetcode.cn/problems/special-binary-string/solution/by-coding-cafe-eqjb/)，[视频](https://www.bilibili.com/video/BV1ZV4y1x7K8/) |
 | 763. Partition Labels | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/763) | --- |
 | 764. Largest Plus Sign | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/764) | --- |
+| 765. Couples Holding Hands | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/765) | --- |
 | 768. Max Chunks To Make Sorted II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/768) | --- |
 | 769. Max Chunks To Make Sorted | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/769) | --- |
 | 771. Jewels and Stones | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/771) | --- |
