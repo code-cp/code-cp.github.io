@@ -724,6 +724,7 @@
 | 2331. Evaluate Boolean Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2331) | ----- |
 | 2335. Minimum Amount of Time to Fill Cups | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2335) | ----- |
 | 2341. Maximum Number of Pairs in Array | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2341) | ----- |
+| 2342. Max Sum of a Pair With Equal Sum of Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2342) | ----- |
 | 2347. Best Poker Hand | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2347) | ----- |
 | 2351. First Letter to Appear Twice | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2351) | ------ |
 | 2352. Equal Row and Column Pairs | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2352) | ------ |
