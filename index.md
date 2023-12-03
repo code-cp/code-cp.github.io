@@ -540,6 +540,7 @@
 | 1417. Reformat The String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1417) | ------ |
 | 1419. Minimum Number of Frogs Croaking | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1419) | ------ |
 | 1422. Maximum Score After Splitting a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1422) | ------ |
+| 1423. Maximum Points You Can Obtain from Cards | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1423) | ------ |
 | 1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1439) | ------ |
 | 1441. Build an Array With Stack Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1441) | ----- |
 | 1444. Number of Ways of Cutting a Pizza | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1444) | ----- |
