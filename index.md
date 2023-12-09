@@ -701,6 +701,7 @@
 | 2044. Count Number of Maximum Bitwise-OR Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2044) | [题解](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/shua-ti-ka-pei-guan-by-sholmes9091-m509/)，[视频](https://www.bilibili.com/video/BV1JL411P7JB/) |
 | 2045. Second Minimum Time to Reach Destination | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2045) | [题解](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/bfsdi-er-ci-bian-li-zhong-dian-fan-hui-j-9brl/) |
 | 2047. Number of Valid Words in a Sentence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2047) | ------ |
+| 2048. Next Greater Numerically Balanced Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2048) | ------ |
 | 2049. Count Nodes With the Highest Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2049) | [题解](https://mp.weixin.qq.com/s?\_\_biz=MzU3Nzg4NTA4NA==\&mid=2247484662\&idx=1\&sn=0e8ea0ef4ecc1db1d0253d945e19323e\&chksm=fd7c8205ca0b0b133f96625e0ff2579c2b0e8cb1557ccd7d7596f554ef28c2016f1a43659c81#rd) |
 | 2055. Plates Between Candles | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2055) | [题解](https://leetcode-cn.com/problems/plates-between-candles/solution/shua-ti-ka-pei-guan-er-fen-sou-suo-by-sh-vndy/)，[视频](https://www.bilibili.com/video/BV1LZ4y1r7KN/) |
 | 2062. Count Vowel Substrings of a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2062) | ------ |
