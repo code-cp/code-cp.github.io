@@ -744,6 +744,7 @@
 | 2404. Most Frequent Even Element | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2404) | ------ |
 | 2409. Count Days Spent Together | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2409) | ------ |
 | 2413. Smallest Even Multiple | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2413) | ------ |
+| 2415. Reverse Odd Levels of Binary Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2415) | ------ |
 | 2418. Sort the People | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2418) | ------ |
 | 2423. Remove Letter To Equalize Frequency | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2423) | ------ |
 | 2427. Number of Common Factors | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2427) | ------ |
