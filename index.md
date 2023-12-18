@@ -96,6 +96,7 @@
 | 150. Evaluate Reverse Polish Notation | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/150) | ----- |
 | 151. Reverse Words in a String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/151) | ----- |
 | 160. Intersection of Two Linked Lists | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/160) | --- |
+| 162. Find Peak Element | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/162) | --- |
 | 172. Factorial Trailing Zeroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/172) |  |
 | 187. Repeated DNA Sequences | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/187) |  |
 | 188. Best Time to Buy and Sell Stock IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/188) | --- |
