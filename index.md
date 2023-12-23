@@ -679,6 +679,7 @@
 | 1851. Minimum Interval to Include Each Query | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1851) | ------ |
 | 1901. Find a Peak Element II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1901) | [视频](https://www.bilibili.com/video/BV1mN4y1b7sK/) |
 | 1921. Eliminate Maximum Number of Monsters | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1921) | ------ |
+| 1962. Remove Stones to Minimize the Total | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1962) | ------ |
 | 1971. Find if Path Exists in Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1971) | ------ |
 | 1945. Sum of Digits of String After Convert | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1945) | ------ |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
