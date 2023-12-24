@@ -682,6 +682,7 @@
 | 1962. Remove Stones to Minimize the Total | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1962) | ------ |
 | 1971. Find if Path Exists in Graph | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1971) | ------ |
 | 1945. Sum of Digits of String After Convert | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1945) | ------ |
+| 1954. Minimum Garden Perimeter to Collect Enough Apples | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1954) | ------ |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1984) |  |
 | 1993. Operations on Tree | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1993) |  |
 | 1994. The Number of Good Subsets | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1994) | [题解](https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/shua-ti-ka-pei-guan-er-wei-dp-by-sholmes-jz8y/), [视频](https://www.bilibili.com/video/BV1ga411C7ju/) |
