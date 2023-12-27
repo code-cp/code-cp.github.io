@@ -794,6 +794,7 @@
 | 2605. Form Smallest Number From Two Digit Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2605) | ------ |
 | 2609. Find the Longest Balanced Substring of a Binary String | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2609) | ------ |
 | 2611. Mice and Cheese | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
+| 2660. Determine the Winner of a Bowling Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2660) | ------ |
 | 2679. Sum in a Matrix | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2611) | ------ |
 | 2681. Power of Heroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2681) | ------ |
 | 2682. Find the Losers of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2682) | ------ |
