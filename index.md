@@ -799,6 +799,7 @@
 | 2681. Power of Heroes | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2681) | ------ |
 | 2682. Find the Losers of the Circular Game | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2682) | ------ |
 | 2699. Modify Graph Edge Weights | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2699) | ------ |
+| 2706. Buy Two Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2706) | ------ |
 | 2731. Movement of Robots | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2731) | ------ |
 | 2735. Collecting Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2735) | ------ |
 | 2828. Check if a String Is an Acronym of Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2828) | ------ |
