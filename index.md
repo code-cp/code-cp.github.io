@@ -802,6 +802,7 @@
 | 2706. Buy Two Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2706) | ------ |
 | 2731. Movement of Robots | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2731) | ------ |
 | 2735. Collecting Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2735) | ------ |
+| 2807. Insert Greatest Common Divisors in Linked List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2807) | ------ |
 | 2828. Check if a String Is an Acronym of Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2828) | ------ |
 | 2866. Beautiful Towers II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2866) | ------ |
 | 5194. Minimum Moves to Reach Target Score | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/5194) | [题解](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score/solution/tan-xin-by-sholmes9091-pizw/) |
