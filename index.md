@@ -804,6 +804,7 @@
 | 2706. Buy Two Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2706) | ------ |
 | 2731. Movement of Robots | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2731) | ------ |
 | 2735. Collecting Chocolates | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2735) | ------ |
+| 2788. Split Strings by Separator | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2788) | ------ |
 | 2807. Insert Greatest Common Divisors in Linked List | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2807) | ------ |
 | 2828. Check if a String Is an Acronym of Words | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2828) | ------ |
 | 2866. Beautiful Towers II | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2866) | ------ |
