@@ -163,7 +163,7 @@
 | 398. Random Pick Index | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/398) | [题解](https://leetcode-cn.com/problems/random-pick-index/solution/by-coding-cafe-74qx/) |
 | 404. Sum of Left Leaves | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/404) | --- |
 | 406. Queue Reconstruction by Height | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/406) | --- |
-| 410. Split Array Largest Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/410) | --- |
+| 410. Split Array Largest Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/410) | [视频](https://www.bilibili.com/video/BV1wV411Q7Wr/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 415. Add Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/415) | ---- |
 | 416. Partition Equal Subset Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/416) | ---- |
 | 417. Pacific Atlantic Water Flow | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/417) | [题解](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/solution/shua-ti-ka-pei-guan-by-coding-cafe-bytg/)，[视频](https://www.bilibili.com/video/BV1cZ4y1y7oR/) |
