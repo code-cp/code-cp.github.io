@@ -144,6 +144,7 @@
 | 346. Moving Average from Data Stream | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/346) | --- |
 | 349. Intersection of Two Arrays | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/349) | --- |
 | 357. Count Numbers with Unique Digits | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/357) | [题解](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/solution/by-coding-cafe-ym3w/), [视频](https://www.bilibili.com/video/BV19F411u7cp/) |
+| 365. Water and Jug Problem | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/365) | --- |
 | 372. Super Pow | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/372) | [题解](https://leetcode-cn.com/problems/super-pow/solution/372-chao-ji-ci-fang-jie-ti-bi-ji-by-shol-ikfk/) |
 | 373. Find K Pairs with Smallest Sums | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/373) | [题解](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/solution/you-xian-dui-lie-by-sholmes9091-rqb5/) |
 | 376. Wiggle Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/376) | --- |
