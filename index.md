@@ -214,6 +214,7 @@
 | 508. Most Frequent Subtree Sum | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/508) | ---- |
 | 509. Fibonacci Number | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/509) | ---- |
 | 513. Find Bottom Left Tree Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/513) | ---- |
+| 514. Freedom Trail| [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/514) | ---- |
 | 515. Find Largest Value in Each Tree Row | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/515) | ---- |
 | 516. Longest Palindromic Subsequence | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/516) | ---- |
 | 518. Coin Change 2 | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/518) | ---- |
