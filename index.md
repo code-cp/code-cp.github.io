@@ -617,7 +617,7 @@
 | 1684. Count the Number of Consistent Strings | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1684) |  |
 | 1687. Delivering Boxes from Storage to Ports | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1687) | ------ |
 | 1688. Count of Matches in Tournament | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1688) | ------ |
-| 1690. Stone Game VII | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1690) | ------ |
+| 1690. Stone Game VII | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1690) | [视频](https://www.bilibili.com/video/BV1Lp421Z7P2/) |
 | 1691. Maximum Height by Stacking Cuboids  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1691) | ------ |
 | 1697. Checking Existence of Edge Length Limited Paths  | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1697) | ------ |
 | 1700. Number of Students Unable to Eat Lunch | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/1700) | ------ |
