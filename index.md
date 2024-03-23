@@ -785,6 +785,7 @@
 | 2530. Maximal Score After Applying K Operations | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2530) | ------ |
 | 2532. Time to Cross a Bridge | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2532) | ------ |
 | 2050. Parallel Courses III | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2050) | ------ |
+| 2549. Count Distinct Numbers on Board | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2549) | ------ |
 | 2559. Count Vowel Strings in Ranges | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2559) | ------ |
 | 2560. House Robber IV | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2560) | [视频](https://www.bilibili.com/video/BV1394y1p7uJ/?vd_source=08e7803d6baa596a0719c10c06f22612) |
 | 2562. Find the Array Concatenation Value | [代码实现](https://github.com/code-cp/leetcode/tree/main/solutions/2562) | ------ |
